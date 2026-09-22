@@ -148,9 +148,5 @@ RAG-ассистент добавляет три функции: семанти�
 Целевые числовые значения метрик будут утверждены после пилотного тестирования; до измерения их нельзя выдавать за достигнутые результаты.
 
 ## 12.
-Чураков А. С.-risks.md
-Замиралов В. А.-use_cases.md
-
-Каруля И. С.-project_description.md architecture_v1.png
-Домашев М. Н.-requirements.md
+Чураков А. С.-risks.md Замиралов В. А.-use_cases.md Каруля И. С.-project_description.md architecture_v1.png Домашев М. Н.-requirements.md
 
