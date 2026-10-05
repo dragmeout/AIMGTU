@@ -1,0 +1,46 @@
+{
+  "retriever": "BM25 exact lowercase terms; k1=1.5, b=0.75; no stemming",
+  "metrics": {
+    "fixed": {
+      "chunk_count": 35,
+      "min_words": 4,
+      "median_words": 180,
+      "max_words": 180,
+      "payload_characters": 47258,
+      "payload_to_clean_ratio": 1.1725,
+      "small_blocks_preserved": 90,
+      "small_blocks_total": 97,
+      "small_block_preservation_rate": 0.9278,
+      "all_blocks_preserved": 90,
+      "all_blocks_total": 102,
+      "fallback_chunks": 0,
+      "support_hit_at_1": 0.8,
+      "support_hit_at_3": 0.85,
+      "support_mrr_at_5": 0.8475,
+      "answerable_questions": 20
+    },
+    "semantic": {
+      "chunk_count": 34,
+      "min_words": 4,
+      "median_words": 183,
+      "max_words": 260,
+      "payload_characters": 40754,
+      "payload_to_clean_ratio": 1.0111,
+      "small_blocks_preserved": 97,
+      "small_blocks_total": 97,
+      "small_block_preservation_rate": 1.0,
+      "all_blocks_preserved": 100,
+      "all_blocks_total": 102,
+      "fallback_chunks": 4,
+      "support_hit_at_1": 0.75,
+      "support_hit_at_3": 0.9,
+      "support_mrr_at_5": 0.8208,
+      "answerable_questions": 20
+    }
+  },
+  "questions_sha256": "06924a15ca87fec9163b59a0c84c9c9ff51ed063204cf6df8f72f3936999a5f2",
+  "pipeline_sha256": "0d73fe81e9da4efc4ed616f5e98dba15888a24d7bc015e35a4a343831fce04a5",
+  "refusal_cases_not_scored": 4,
+  "limitations": "Small corpus, drafted gold requires team review; not RAG answer quality or embedding benchmark.",
+  "selected": "semantic"
+}
