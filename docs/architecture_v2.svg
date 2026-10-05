@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2200" height="1370" viewBox="0 0 2200 1370">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#7789a5"/></marker></defs>
+<rect width="2200" height="1370" fill="#f6f8fc"/>
+<style>text {font-family:Arial,sans-serif;fill:#17324f} .body{font-size:23px;fill:#405773} .hint{font-size:20px;fill:#667993}</style>
+
+<text x="62" y="62" font-size="42" text-anchor="start" fill="#17324f" font-weight="700">Архитектура v2 — ИИ-ассистент студента МГТУ</text>
+<text x="62" y="103" font-size="24" text-anchor="start" fill="#667993" font-weight="400">Фиксированный RAG-конвейер · CPU · целевой минимум 8 ГБ RAM · без отдельной классификации тем и агента</text>
+<rect x="40" y="128" width="2120" height="760" rx="24" fill="white" stroke="#dce4ef" stroke-width="2"/>
+<text x="70" y="169" font-size="29" text-anchor="start" fill="#17324f" font-weight="700">Обработка вопроса: один проход по локальной базе знаний</text>
+<rect x="75" y="220" width="300" height="152" rx="17" fill="#edf3ff" stroke="#3b6be5" stroke-width="2.5"/>
+<text x="225.0" y="256" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">UI · Интерфейс</text>
+<text x="225.0" y="297" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Вопрос студента</text>
+<text x="225.0" y="325" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Streamlit</text>
+<text x="225.0" y="353" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Текст на русском</text>
+<rect x="405" y="220" width="300" height="152" rx="17" fill="#fff3e7" stroke="#cf751f" stroke-width="2.5"/>
+<text x="555.0" y="256" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">G1 · Правила ввода</text>
+<text x="555.0" y="297" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Явные запреты</text>
+<text x="555.0" y="325" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Длина / пустой вопрос</text>
+<text x="555.0" y="353" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Шаблонное уточнение</text>
+<rect x="735" y="220" width="400" height="152" rx="17" fill="#f1ebff" stroke="#8854e9" stroke-width="2.5"/>
+<text x="935.0" y="256" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">E · Embedding вопроса</text>
+<text x="935.0" y="297" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">intfloat/</text>
+<text x="935.0" y="325" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">multilingual-e5-small</text>
+<text x="935.0" y="353" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">query: · 384 · normalize</text>
+<rect x="1165" y="220" width="390" height="152" rx="17" fill="#edf3ff" stroke="#3b6be5" stroke-width="2.5"/>
+<text x="1360.0" y="256" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">R · Поиск FAISS</text>
+<text x="1360.0" y="297" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">IndexFlatIP · CPU</text>
+<text x="1360.0" y="325" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">До 5 кандидатов</text>
+<text x="1360.0" y="353" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">ID фрагментов + score</text>
+<rect x="1585" y="220" width="540" height="152" rx="17" fill="#fff3e7" stroke="#cf751f" stroke-width="2.5"/>
+<text x="1855.0" y="256" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">G2 · Проверка источников</text>
+<text x="1855.0" y="297" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Порог · даты · допустимость</text>
+<text x="1855.0" y="325" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Редакции / значения из метаданных</text>
+<text x="1855.0" y="353" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">До 3 chunks в контекст</text>
+<path d="M378,296 L400,296" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M708,296 L730,296" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M1138,296 L1160,296" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M1558,296 L1580,296" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="1550" y="470" width="575" height="155" rx="17" fill="#f1ebff" stroke="#8854e9" stroke-width="2.5"/>
+<text x="1837.5" y="506" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">L · Генерация по контексту</text>
+<text x="1837.5" y="547" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Qwen2.5-1.5B-Instruct</text>
+<text x="1837.5" y="575" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">GGUF Q4_K_M · llama.cpp CPU</text>
+<text x="1837.5" y="603" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Один вызов · контекст 2048</text>
+<rect x="900" y="470" width="480" height="155" rx="17" fill="#fff3e7" stroke="#cf751f" stroke-width="2.5"/>
+<text x="1140.0" y="506" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">G3 · Проверка результата</text>
+<text x="1140.0" y="547" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Формат + допустимые ID цитат</text>
+<text x="1140.0" y="575" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">URL формирует код из source</text>
+<text x="1140.0" y="603" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Ответ / уточнение / фрагменты</text>
+<rect x="405" y="470" width="425" height="155" rx="17" fill="#e8f7f1" stroke="#169570" stroke-width="2.5"/>
+<text x="617.5" y="506" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">UI · Показ результата</text>
+<text x="617.5" y="547" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Ответ или уточнение</text>
+<text x="617.5" y="575" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Официальные ссылки и даты</text>
+<text x="617.5" y="603" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Ограничения актуальности</text>
+<rect x="75" y="480" width="255" height="155" rx="17" fill="#fff0ee" stroke="#cb554c" stroke-width="2.5"/>
+<text x="202.5" y="516" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">Шаблон</text>
+<text x="202.5" y="557" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Отказ / уточнение</text>
+<text x="202.5" y="585" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Без вызова LLM</text>
+<text x="202.5" y="613" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Код причины</text>
+<path d="M1900,372 L1900,465" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="1914" y="422" font-size="20" text-anchor="start" fill="#667993" font-weight="400">достаточно</text>
+<path d="M1550,548 L1386,548" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M900,548 L836,548" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M480,372 L480,422 L195,422 L195,474" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="86" y="415" font-size="20" text-anchor="start" fill="#667993" font-weight="400">явный запрет</text>
+<path d="M1650,372 L1650,405 L348,405 L348,570 L336,570" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="990" y="398" font-size="20" text-anchor="start" fill="#667993" font-weight="400">нет допустимых доказательств</text>
+<path d="M330,604 L368,604 L368,581 L399,581" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="75" y="735" width="1250" height="115" rx="17" fill="#edf3ff" stroke="#3b6be5" stroke-width="2.5"/>
+<text x="700.0" y="771" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">Журнал и оценка качества</text>
+<text x="700.0" y="812" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">ID источников · score · версии моделей и индекса · решение · время</text>
+<text x="700.0" y="840" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Benchmark ≥100: retrieval · correctness · faithfulness · отказы · пиковая RAM</text>
+<path d="M620,625 L620,729" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="1505" y="727" font-size="25" text-anchor="start" fill="#17324f" font-weight="700">Подразделение в UC-06:</text>
+<text x="1505" y="763" font-size="23" text-anchor="start" fill="#405773" font-weight="400">поиск описания в индексе → текст + metadata.</text>
+<text x="1505" y="799" font-size="23" text-anchor="start" fill="#405773" font-weight="400">Никаких самостоятельных переходов на сайты.</text>
+<text x="900" y="687" font-size="23" text-anchor="start" fill="#667993" font-weight="400">G1/G2/G3 — обычный код. У LLM нет инструментов.</text>
+<rect x="40" y="930" width="2120" height="345" rx="24" fill="white" stroke="#dce4ef" stroke-width="2"/>
+<text x="70" y="973" font-size="29" text-anchor="start" fill="#17324f" font-weight="700">Подготовка базы и индекса — отдельно, до обработки вопросов</text>
+<rect x="75" y="1020" width="300" height="192" rx="17" fill="#e8f7f1" stroke="#169570" stroke-width="2.5"/>
+<text x="225.0" y="1056" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">Источники</text>
+<text x="225.0" y="1097" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Официальные страницы</text>
+<text x="225.0" y="1125" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Локальные акты</text>
+<text x="225.0" y="1153" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Администратор</text>
+<rect x="405" y="1020" width="300" height="192" rx="17" fill="#edf3ff" stroke="#3b6be5" stroke-width="2.5"/>
+<text x="555.0" y="1056" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">Загрузка и очистка</text>
+<text x="555.0" y="1097" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Белый список доменов</text>
+<text x="555.0" y="1125" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Текст / OCR / таблицы</text>
+<text x="555.0" y="1153" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Версии и метаданные</text>
+<rect x="735" y="1020" width="400" height="192" rx="17" fill="#edf3ff" stroke="#3b6be5" stroke-width="2.5"/>
+<text x="935.0" y="1056" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">Структурные chunks</text>
+<text x="935.0" y="1097" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Разделы · пункты · списки</text>
+<text x="935.0" y="1125" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Токенизатор E5: ≤384</text>
+<text x="935.0" y="1153" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Переразбиение без потерь</text>
+<rect x="1165" y="1020" width="450" height="192" rx="17" fill="#f1ebff" stroke="#8854e9" stroke-width="2.5"/>
+<text x="1390.0" y="1056" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">E · Embeddings документов</text>
+<text x="1390.0" y="1097" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">intfloat/</text>
+<text x="1390.0" y="1125" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">multilingual-e5-small</text>
+<text x="1390.0" y="1153" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">passage: · 384 · normalize</text>
+<rect x="1645" y="1020" width="480" height="192" rx="17" fill="#e8f7f1" stroke="#169570" stroke-width="2.5"/>
+<text x="1885.0" y="1056" font-size="27" text-anchor="middle" fill="#17324f" font-weight="700">FAISS + JSON metadata</text>
+<text x="1885.0" y="1097" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">IndexFlatIP, float32</text>
+<text x="1885.0" y="1125" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">ID → текст, department, source</text>
+<text x="1885.0" y="1153" font-size="23" text-anchor="middle" fill="#405773" font-weight="400">Ревизия encoder + corpus version</text>
+<path d="M378,1115 L400,1115" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M708,1115 L730,1115" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M1138,1115 L1160,1115" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M1618,1115 L1640,1115" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M2125,1115 L2175,1115 L2175,191 L1370,191 L1370,214" fill="none" stroke="#7789a5" stroke-width="2.5" marker-end="url(#arrow)" stroke-dasharray="8,6"/>
+<text x="1735" y="182" font-size="20" text-anchor="start" fill="#667993" font-weight="400">локальный индекс</text>
+<text x="75" y="1248" font-size="22" text-anchor="start" fill="#667993" font-weight="400">Смена embedding-модели требует переиндексации. Во время вопроса загрузка документов и индексация не выполняются.</text>
+<text x="62" y="1320" font-size="23" text-anchor="start" fill="#17324f" font-weight="700">Профиль передачи: 8 ГБ RAM · x86-64/AVX2 · 4 ядра · без GPU · 1 запрос · ответ ≤256 токенов · пилот ≤10 000 chunks</text>
+<text x="62" y="1353" font-size="22" text-anchor="start" fill="#667993" font-weight="400">Проектные требования: полный прототип и пиковое потребление памяти ещё предстоит измерить на компьютере другой команды.</text>
+</svg>
