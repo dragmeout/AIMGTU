@@ -1,0 +1,45 @@
+{
+  "document_version": "1.1",
+  "checked_at": "2026-10-04",
+  "models": [
+    {
+      "role": "embedding",
+      "model_id": "intfloat/multilingual-e5-small",
+      "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+      "weights_file": "model.safetensors",
+      "weights_sha256": "1a55775f53449dac10a2bcbc312469fac40b96d53198c407081a831f81c98477",
+      "weights_size_bytes": 470641600,
+      "license": "mit",
+      "metadata_source": "https://huggingface.co/api/models/intfloat/multilingual-e5-small?blobs=true",
+      "download_url": "https://huggingface.co/intfloat/multilingual-e5-small/resolve/614241f622f53c4eeff9890bdc4f31cfecc418b3/model.safetensors",
+      "deployment_status": "selected_for_design;not_benchmarked_in_full_RAG"
+    },
+    {
+      "role": "generation",
+      "model_id": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+      "revision": "91cad51170dc346986eccefdc2dd33a9da36ead9",
+      "weights_file": "qwen2.5-1.5b-instruct-q4_k_m.gguf",
+      "weights_sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+      "weights_size_bytes": 1117320736,
+      "license": "apache-2.0",
+      "metadata_source": "https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct-GGUF?blobs=true",
+      "download_url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/91cad51170dc346986eccefdc2dd33a9da36ead9/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+      "deployment_status": "selected_for_design;not_benchmarked_in_full_RAG"
+    }
+  ],
+  "documentation_model": {
+    "provider": "OpenAI",
+    "model_id": "gpt-6.1-sol",
+    "family_version": "6.1",
+    "tool": "Codex",
+    "evidence": "model field of current session metadata",
+    "checkpoint_date": null
+  },
+  "runtime": {
+    "name": "llama.cpp",
+    "mode": "CPU",
+    "release": "to_be_pinned_at_implementation",
+    "source": "https://github.com/ggml-org/llama.cpp"
+  },
+  "note": "Weight hashes are from official repository LFS metadata. No model weights downloaded or full RAG performance measured."
+}

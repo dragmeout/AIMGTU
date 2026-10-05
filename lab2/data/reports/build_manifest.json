@@ -1,0 +1,26 @@
+{
+  "pipeline_version": "2.0.0",
+  "python_version": "3.12.14",
+  "pipeline_sha256": "0d73fe81e9da4efc4ed616f5e98dba15888a24d7bc015e35a4a343831fce04a5",
+  "dependency_versions": {
+    "beautifulsoup4": "4.14.3",
+    "pdfplumber": "0.11.9",
+    "pdfminer.six": "20251230",
+    "Pillow": "12.3.0",
+    "pypdfium2": "5.13.0"
+  },
+  "config_sha256": "89dae059182c52ad26ba19650ec1556206983dfe8e124cdc038c42b445c5b3fe",
+  "registry_sha256": "424eee36c93857a42d31a6784013f22a3b465550c5046f92c3606a4e607f130f",
+  "snapshot_manifest_sha256": "66e90ef0263cc8d148b1cb46e8149e2290d345c0070473f1869e82b5d5505ee7",
+  "corpus_version": "fcc4ac25f1f763b6451a93e58602a7e1fa611fc160784894d17cb7aeca94ba65",
+  "selected_method": "semantic",
+  "counts": {
+    "fixed": 35,
+    "semantic": 34
+  },
+  "outputs": {
+    "data/chunks/final.jsonl": "5ff16b05962113c5889ff6e8c43a3d11eab9887903c8890ae69f6b2dfa633c2b",
+    "data/chunks/fixed.jsonl": "a02a8b77ad00ae2a2ee4013c6ca2967f8ba46afca2dfd0d54e0f7cf5c22b28df",
+    "data/chunks/semantic.jsonl": "5ff16b05962113c5889ff6e8c43a3d11eab9887903c8890ae69f6b2dfa633c2b"
+  }
+}
