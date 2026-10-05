@@ -1,0 +1,70 @@
+{
+  "status": "design_specification_not_running_application",
+  "agent_enabled": false,
+  "topic_classifier_enabled": false,
+  "external_tools_enabled": false,
+  "embedding": {
+    "model_id": "intfloat/multilingual-e5-small",
+    "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "device": "cpu",
+    "dtype": "float32",
+    "dimensions": 384,
+    "pooling": "mean",
+    "normalize": true,
+    "query_prefix": "query: ",
+    "passage_prefix": "passage: ",
+    "max_input_tokens": 384,
+    "oversize_policy": "resplit_not_silent_truncation",
+    "fallback_overlap_tokens": 48,
+    "query_batch_size": 1,
+    "index_batch_size": 8
+  },
+  "retrieval": {
+    "index": "FAISS IndexFlatIP",
+    "candidate_k": 5,
+    "context_k_max": 3,
+    "min_similarity": null,
+    "threshold_status": "calibration_required_on_validation_set",
+    "cross_encoder_enabled": false,
+    "eligibility_checks": [
+      "source_allowlist",
+      "validity_status",
+      "allowed_use",
+      "education_level"
+    ],
+    "conflict_detection_scope": "edition_status_and_explicit_structured_fact_values"
+  },
+  "generation": {
+    "model_id": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+    "revision": "91cad51170dc346986eccefdc2dd33a9da36ead9",
+    "weights_file": "qwen2.5-1.5b-instruct-q4_k_m.gguf",
+    "quantization": "Q4_K_M",
+    "runtime": "llama.cpp",
+    "gpu_layers": 0,
+    "context_tokens": 2048,
+    "max_new_tokens": 256,
+    "temperature": 0,
+    "max_calls_per_question": 1,
+    "context_packing": "count_Qwen_tokens_including_prompt_and_output_reserve"
+  },
+  "hardware_target": {
+    "os": [
+      "Windows 10/11 x64",
+      "Linux x64"
+    ],
+    "cpu": "x86-64 AVX2, 4 cores",
+    "system_ram_gib": 8,
+    "gpu_required": false,
+    "free_disk_gb": 5,
+    "processes_peak_ram_target_gib": 4,
+    "pilot_max_chunks": 10000,
+    "concurrent_requests": 1,
+    "indexing_during_serving": false,
+    "benchmark_status": "not_measured_yet"
+  },
+  "latency_targets": {
+    "retrieval_median_seconds": 3,
+    "answer_median_seconds": 60,
+    "status": "acceptance_targets_not_measurements"
+  }
+}
