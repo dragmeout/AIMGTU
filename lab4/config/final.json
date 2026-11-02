@@ -1,0 +1,7 @@
+{
+  "name": "final",
+  "chunk_tokens": 384,
+  "top_k": 2,
+  "prompt_mode": "grounded",
+  "max_output_tokens": 128
+}

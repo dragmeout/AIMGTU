@@ -1,0 +1,9 @@
+{
+  "previous_documents": 35,
+  "current_documents": 70,
+  "new_documents": 35,
+  "substantive_documents": 67,
+  "navigation_documents": 3,
+  "comparison_question_sets": "same original 20 dev + 16 test questions; these sets are already known from the 35-document experiment",
+  "purpose": "Measure the effect of a larger corpus without presenting previous test sets as new unseen questions."
+}
