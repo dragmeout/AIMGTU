@@ -1,0 +1,715 @@
+{
+  "corpus_documents": 70,
+  "corpus_sha256": "972aa46972823d3b7d98bc6b9e2d477c97e348628d3365d011e19c4c275a6dec",
+  "rules_sha256": "47e3d036cdeb6e1c2f01004839a93c7ccc41f07ddd160541618ddaadf335160c",
+  "builder_sha256": "6318cd43ddc9e2dd96ea0cdb5959a7b4d51beb61cb5875120ec8209551ff04ba",
+  "scope": "Public department contacts only, extracted from frozen official university snapshots. No student records or live schedules.",
+  "departments": [
+    {
+      "id": "graduate-office",
+      "title": "Отдел по работе с выпускниками",
+      "aliases": [
+        "Отдел по работе с выпускниками",
+        "выпускник",
+        "выпускниками",
+        "диплом",
+        "дубликат зачет"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/uchebno-metodicheskoe-upravlenie/отдел-по-работе-с-выпускниками.html",
+      "date": "2014-06-11",
+      "fetched_at": "2026-11-01T20:47:02+05:00",
+      "clean_sha256": "a8cc7c1a323064c8813149894c6288121c285a59c91edc216786f15aa0306372",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина 38, ауд. 226",
+          "start_char": 38,
+          "end_char": 68
+        },
+        "телефон": {
+          "evidence": "Телефон: (3519) 29-85-80",
+          "start_char": 70,
+          "end_char": 94
+        },
+        "график работы": {
+          "evidence": "График работы: пн-чт, 8:00-17:00, пт, 8:00-15:45, обед 12:00-12:45",
+          "start_char": 135,
+          "end_char": 201
+        },
+        "часы приема": {
+          "evidence": "Часы приёма: с 10.00 до 12.00 – выдача документов об образовании, дубликатов документов об образовании, дубликатов зачетных книжек и студенческих билетов.",
+          "start_char": 203,
+          "end_char": 357
+        }
+      }
+    },
+    {
+      "id": "paid-services-unit",
+      "title": "Финансово-экономический отдел (сектор платных услуг)",
+      "aliases": [
+        "Финансово-экономический отдел (сектор платных услуг)",
+        "платных услуг",
+        "платные услуги",
+        "платным услуг",
+        "оплате обучения",
+        "финансово-экономическ"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sluzhby-upravleniia/sektor-platnykh-uslug.html",
+      "date": "2014-05-27",
+      "fetched_at": "2026-11-01T20:46:57+05:00",
+      "clean_sha256": "e286142241ac59be23e981ee32b1b5782112757d7d03cefc0b557182c4cf4c59",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина 38, ауд. 11 и 12. Вход со стороны Приемной комиссии.",
+          "start_char": 145,
+          "end_char": 215
+        },
+        "телефон": {
+          "evidence": "Телефон: (3519) 29-85-10, 29-85-05",
+          "start_char": 217,
+          "end_char": 251
+        },
+        "график работы": {
+          "evidence": "График работы:\n\n- Прием заявлений на получение справки для ФНС ежедневно строго с 14:00 до 16:00\n- Прием обучающихся ежедневно (кроме пятницы) с 9:00 до 16:00, в пятницу с 9:00 до 15:00\n- Обеденный перерыв ежедневно с 12:00-13:00.",
+          "start_char": 354,
+          "end_char": 584
+        }
+      }
+    },
+    {
+      "id": "social-unit-1",
+      "title": "Отдел по мобилизационной работе",
+      "aliases": [
+        "Отдел по мобилизационной работе",
+        "воинск",
+        "мобилизацион"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/otdel-po-mobilizatsionnoj-rabote.html",
+      "date": "2019-08-12",
+      "fetched_at": "2026-11-01T20:47:10+05:00",
+      "clean_sha256": "207daa7b47d81efa538d54882bcd2e6a08b966156e4662869a5b39978eb54f85",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина, 38, каб. № 252",
+          "start_char": 40,
+          "end_char": 73
+        },
+        "телефон": {
+          "evidence": "Телефон: (3519) 22-03-70",
+          "start_char": 75,
+          "end_char": 99
+        },
+        "график работы": {
+          "evidence": "График работы: пн.-чт. 8:00 – 17:00, пт. 8:00 – 15:45, обед 12:00 - 12:45",
+          "start_char": 101,
+          "end_char": 174
+        }
+      }
+    },
+    {
+      "id": "social-unit-2",
+      "title": "Отдел по социальным вопросам",
+      "aliases": [
+        "Отдел по социальным вопросам",
+        "социальным вопросам",
+        "социальные вопросы"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/otdel-po-sotsialnym-voprosam.html",
+      "date": "2020-02-18",
+      "fetched_at": "2026-11-01T20:47:12+05:00",
+      "clean_sha256": "aa1feb1223d72c51b6fe9b4619fe2f1292d2ce971c40e67e6d54fa5606b89473",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина, 38, главный корпус, каб. 223",
+          "start_char": 48,
+          "end_char": 95
+        },
+        "телефон": {
+          "evidence": "Телефон: (3519) 23-57-60",
+          "start_char": 97,
+          "end_char": 121
+        },
+        "график работы": {
+          "evidence": "График работы: пн-чт: 8.00 – 17.00; пт: 8.00 – 15.45; обед: 12.00 – 12.45",
+          "start_char": 162,
+          "end_char": 235
+        }
+      }
+    },
+    {
+      "id": "social-unit-4",
+      "title": "Учебно-оздоровительный центр «Юность»",
+      "aliases": [
+        "Учебно-оздоровительный центр «Юность»",
+        "юность"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/uchebno-ozdorovitelnyj-tsentr-yunost.html",
+      "date": "2014-05-28",
+      "fetched_at": "2026-11-01T20:47:13+05:00",
+      "clean_sha256": "e38fde47cc8db7253d3fc57f4e3a6f240394dd9d5b035489bb51423688e47f7e",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: Абзелиловский р-н, д. Зеленая поляна, ул. Курортная 29/1",
+          "start_char": 0,
+          "end_char": 63
+        },
+        "телефон": {
+          "evidence": "Телефон: +8(3519)29-85-23",
+          "start_char": 65,
+          "end_char": 90
+        },
+        "график работы": {
+          "evidence": "График работы: понедельник-четверг, с 8:00 до 17:00, пятница с 8:00 до 16:00",
+          "start_char": 204,
+          "end_char": 280
+        }
+      }
+    },
+    {
+      "id": "social-unit-6",
+      "title": "Центр студенческих инициатив «Пирамида»",
+      "aliases": [
+        "Центр студенческих инициатив «Пирамида»",
+        "пирамида"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/tsentr-studencheskikh-initsiativ-piramida.html",
+      "date": "2025-07-25",
+      "fetched_at": "2026-11-01T20:47:15+05:00",
+      "clean_sha256": "133e6cbc5a89b749f8a39163b4ea2c70232d86050b36990c48b510f61465c649",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Карла Маркса, 50/2",
+          "start_char": 38,
+          "end_char": 67
+        },
+        "телефон": {
+          "evidence": "Телефон: +7 (902) 027-53-54",
+          "start_char": 69,
+          "end_char": 96
+        },
+        "график работы": {
+          "evidence": "График работы:понедельник – четверг, с 08:00 до 17:00; пятница, с 08:00 до 15:45; обеденный перерыв с 12:00 до 12:45",
+          "start_char": 279,
+          "end_char": 395
+        }
+      }
+    },
+    {
+      "id": "support-service-127",
+      "title": "Управление международного сотрудничества",
+      "aliases": [
+        "Управление международного сотрудничества",
+        "международн"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/upravlenie-mezhdunarodnogo-sotrudnichestva.html",
+      "date": "2023-11-07",
+      "fetched_at": "2026-11-01T20:47:22+05:00",
+      "clean_sha256": "c3f802c9738074ada48dc3c8a2bc03997bbb00d0d9fb69a8ebb24bb11d2021b4",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. К. Маркса, 45/2, каб. 516",
+          "start_char": 0,
+          "end_char": 36
+        },
+        "телефон": {
+          "evidence": "Телефон: +7 (3519) 22-04-67",
+          "start_char": 38,
+          "end_char": 65
+        },
+        "график работы": {
+          "evidence": "График работы: пн-чт: 08.00 – 17.00, пт: 08.00 – 15.45; обеденный перерыв: 12.00 – 13.00",
+          "start_char": 106,
+          "end_char": 194
+        }
+      }
+    },
+    {
+      "id": "support-service-177",
+      "title": "Отдел делопроизводства",
+      "aliases": [
+        "Отдел делопроизводства",
+        "делопроизводств"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sluzhby-upravleniia/otdel-deloproizvodstva.html",
+      "date": "2014-05-27",
+      "fetched_at": "2026-11-01T20:47:25+05:00",
+      "clean_sha256": "0e223d74335971cb419eaf0b0e197c0158d96005f3188d66241ea4cda681e1a1",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина, 38, ауд. 246, 248",
+          "start_char": 36,
+          "end_char": 72
+        },
+        "телефон": {
+          "evidence": "Телефон: +7 (3519) 22-12-87, +7 (3519) 29-84-26",
+          "start_char": 74,
+          "end_char": 121
+        },
+        "график работы": {
+          "evidence": "График работы: пн-чт 08.00-17.00, пт 08.00-15.45, перерыв 12.00-12.45",
+          "start_char": 188,
+          "end_char": 257
+        }
+      }
+    },
+    {
+      "id": "support-service-222",
+      "title": "Управление информационных технологий и АСУ",
+      "aliases": [
+        "Управление информационных технологий и АСУ",
+        "уит",
+        "ит и асу",
+        "информационных технологий"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/upravlenie-informatsionnykh-tekhnologij-i-asu.html",
+      "date": "2014-06-17",
+      "fetched_at": "2026-11-01T20:47:25+05:00",
+      "clean_sha256": "9c37686ae4d78129b7b9ed41431525634d90e7e1a7c6b1b6801321147c74a43d",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: ул. Калинина, 26 (ГУК), ауд. 280",
+          "start_char": 51,
+          "end_char": 90
+        },
+        "телефон": {
+          "evidence": "Телефон: +7 (3519) 22-19-05",
+          "start_char": 92,
+          "end_char": 119
+        }
+      }
+    },
+    {
+      "id": "support-service-228",
+      "title": "Центр цифровых образовательных технологий и инклюзивного образования",
+      "aliases": [
+        "Центр цифровых образовательных технологий и инклюзивного образования",
+        "цифровых образовательных",
+        "инклюзивного образования"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/uchebnye-sluzhby/tsentr-tsifrovykh-obrazovatelnykh-tekhnologij-i-inklyuzivnogo-obrazovaniya.html",
+      "date": "2022-03-17",
+      "fetched_at": "2026-11-01T20:47:25+05:00",
+      "clean_sha256": "5495edb4e05f761f713dc380d0a7f0f90d9a66fda3f30b8c2aae41f1c8579c35",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: К. Маркса, д. 45/2, каб. 509",
+          "start_char": 39,
+          "end_char": 74
+        },
+        "телефон": {
+          "evidence": "Телефон: начальник центра (3519) 29-84-77; специалисты центра (3519) 29-85-02",
+          "start_char": 76,
+          "end_char": 153
+        },
+        "график работы": {
+          "evidence": "График работы: пн-чт, 8.00 – 17.00, пт, 8.00 – 15.45, обед 12:00 – 12:45",
+          "start_char": 194,
+          "end_char": 266
+        }
+      }
+    },
+    {
+      "id": "support-service-118",
+      "title": "Управление по развитию студенческого спорта",
+      "aliases": [
+        "Управление по развитию студенческого спорта",
+        "студенческого спорта"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/69-svedeniya-ob-obrazovatelnoj-organizatsii/struktura-i-organy-upravleniya-obrazovatelnoj-organizatsiej/informatsiya-o-strukturnykh-podrazdeleniyakh/upravleniya/17691-upravlenie-po-razvitiyu-studencheskogo-sporta.html",
+      "date": "2024-12-11",
+      "fetched_at": "2026-11-01T20:47:22+05:00",
+      "clean_sha256": "0240434c25d6dffff520f0d8cfe5bfc03e822496df8b944d3112d61f7388fa55",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина 38/2, Дворец спорта МГТУ, 2 этаж, ауд.1",
+          "start_char": 42,
+          "end_char": 99
+        },
+        "телефон": {
+          "evidence": "Телефон: +7 (3519) 29-84-38",
+          "start_char": 101,
+          "end_char": 128
+        },
+        "график работы": {
+          "evidence": "График работы: понедельник-четверг с 8:00 до 17:00, пятница с 8:00 до 15:45, перерыв 12:00 – 12:45",
+          "start_char": 233,
+          "end_char": 331
+        }
+      }
+    },
+    {
+      "id": "service-unit-88",
+      "title": "Центр открытого и заочного обучения",
+      "aliases": [
+        "Центр открытого и заочного обучения",
+        "заочного обучения",
+        "заочного образования"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/tsentr-otkrytogo-i-zaochnogo-obucheniya.html",
+      "date": "2014-06-10",
+      "fetched_at": "2026-11-01T20:47:18+05:00",
+      "clean_sha256": "2d82756de00c3b29b2aecd52acd4692456a2fcffc79fe3db0d452855eeeee5ce",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес:\n\n- пр. Ленина, 38, главный корпус, центральный холл 4 этажа, ауд. 434а, ауд. 336, ауд. 334\n- пр. Ленина, 38, ауд. 338 (директор)",
+          "start_char": 68,
+          "end_char": 203
+        }
+      }
+    },
+    {
+      "id": "career-main-unit",
+      "title": "Центр карьеры и взаимодействия с партнерами",
+      "aliases": [
+        "Центр карьеры и взаимодействия с партнерами",
+        "центр карьеры",
+        "центра карьеры",
+        "трудоустройств",
+        "работодател"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/upravlenie-kommunikatsij-i-marketinga/tsentr-karery-i-vzaimodejstviya-s-partnjorami.html",
+      "date": "2014-06-11",
+      "fetched_at": "2026-11-01T20:47:29+05:00",
+      "clean_sha256": "0421ccc58367c7920d7d68959c0a65748ee55f760694e574f7f4bea395b89c1d",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина 38, ауд 136",
+          "start_char": 38,
+          "end_char": 67
+        },
+        "телефон": {
+          "evidence": "Телефон: 8 (800) 100-19-34",
+          "start_char": 69,
+          "end_char": 95
+        },
+        "график работы": {
+          "evidence": "График работы:\n\n- понедельник-пятница, 8:00-17:00\n- обеденный перерыв, 12:00-12:45",
+          "start_char": 211,
+          "end_char": 293
+        }
+      }
+    },
+    {
+      "id": "educational-management",
+      "title": "Учебно-методическое управление",
+      "aliases": [
+        "Учебно-методическое управление",
+        "учебно-методическ",
+        "уму"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/uchebno-metodicheskoe-upravlenie.html",
+      "date": "2014-06-11",
+      "fetched_at": "2026-11-01T19:06:49+05:00",
+      "clean_sha256": "c87edfa35f9fc5f12db5a78473ec21657ce83b71b45be98ab5d55c96166a3187",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. К. Маркса, д. 45/2, каб. 201",
+          "start_char": 62,
+          "end_char": 101
+        },
+        "телефон": {
+          "evidence": "Телефон: (3519) 23-57-55",
+          "start_char": 103,
+          "end_char": 127
+        },
+        "график работы": {
+          "evidence": "График работы: пн-чт, 8.00 – 17.00, пт, 8.00 – 15.45, обед 12:00 – 12:45",
+          "start_char": 168,
+          "end_char": 240
+        }
+      }
+    },
+    {
+      "id": "institute-1",
+      "title": "Институт металлургии, машиностроения и материалообработки",
+      "aliases": [
+        "Институт металлургии, машиностроения и материалообработки",
+        "иммим",
+        "металлургии"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-metallurgii-mashinostroeniya-i-materialoobrabotki.html",
+      "date": "2014-06-16",
+      "fetched_at": "2026-11-01T20:47:00+05:00",
+      "clean_sha256": "bfb03d849bf23efa597dcff04e66a9818b9088d26643c246d4391d8cc5e13320",
+      "fields": {
+        "часы приема": {
+          "evidence": "Часы приёма: понедельник – четверг: 9.00 – 17.00, пятница: 9.00 – 16.00",
+          "start_char": 92,
+          "end_char": 163
+        },
+        "адрес": {
+          "evidence": "Адрес:пр. Ленина, 38, ауд. 273, ауд. 324 (зав. кафедрой)",
+          "start_char": 165,
+          "end_char": 221
+        },
+        "телефон": {
+          "evidence": "Телефон:+7 (3519) 29-84-67, +7 (3519) 29-85-18 (зав. кафедрой)",
+          "start_char": 223,
+          "end_char": 285
+        }
+      }
+    },
+    {
+      "id": "institute-8",
+      "title": "Институт горного дела и транспорта",
+      "aliases": [
+        "Институт горного дела и транспорта",
+        "горного дела",
+        "игдит"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-gornogo-dela-i-transporta.html",
+      "date": "2014-06-11",
+      "fetched_at": "2026-11-01T20:47:01+05:00",
+      "clean_sha256": "97223f49d18ea6ea56da72131f89740fa3608cd9e6dee168639802018ec71cc9",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: главный учебный корпус, ауд. 128",
+          "start_char": 110,
+          "end_char": 149
+        },
+        "телефон": {
+          "evidence": "Телефон: 8 (3519) 29-85-87",
+          "start_char": 151,
+          "end_char": 177
+        }
+      }
+    },
+    {
+      "id": "institute-13",
+      "title": "Институт энергетики и автоматизированных систем",
+      "aliases": [
+        "Институт энергетики и автоматизированных систем",
+        "энергетики",
+        "иэиас"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-energetiki-i-avtomatizirovannykh-sistem.html",
+      "date": "2014-06-11",
+      "fetched_at": "2026-11-01T20:47:03+05:00",
+      "clean_sha256": "fdda79c0a74691a2b12bc4a8d5d493a4df5160254eb28b0a9de82971e9eaf02a",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина, 38, ауд. 359",
+          "start_char": 72,
+          "end_char": 103
+        },
+        "телефон": {
+          "evidence": "Телефон: +7 (3519) 22-17-19",
+          "start_char": 105,
+          "end_char": 132
+        }
+      }
+    },
+    {
+      "id": "institute-22",
+      "title": "Институт строительства, архитектуры и искусства",
+      "aliases": [
+        "Институт строительства, архитектуры и искусства",
+        "строительства",
+        "исаи"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-stroitelstva-arkhitektury-i-iskusstva.html",
+      "date": "2014-06-16",
+      "fetched_at": "2026-11-01T20:47:04+05:00",
+      "clean_sha256": "db976989b5b9e5416707952ec68b89c2811f1edab74174c6fde484136d293ccd",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: ул. Урицкого, 11, ауд. 216",
+          "start_char": 73,
+          "end_char": 106
+        }
+      }
+    },
+    {
+      "id": "institute-28",
+      "title": "Институт экономики и управления",
+      "aliases": [
+        "Институт экономики и управления",
+        "экономики и управления",
+        "иэиу"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-ekonomiki-i-upravleniya.html",
+      "date": "2014-06-16",
+      "fetched_at": "2026-11-01T20:47:05+05:00",
+      "clean_sha256": "267827a76e84dada6ace3ef1a3131ad212ec2b958e84f9f0251cfa1f77f571a4",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина 24а, ауд. 205",
+          "start_char": 130,
+          "end_char": 161
+        },
+        "телефон": {
+          "evidence": "Телефон: (3519) 22-19-94",
+          "start_char": 163,
+          "end_char": 187
+        },
+        "график работы": {
+          "evidence": "График работы: понедельник - пятница, 08:00 – 17:00",
+          "start_char": 228,
+          "end_char": 279
+        },
+        "часы приема": {
+          "evidence": "Часы приёма: среда, пятница, 13:00 – 15:00.",
+          "start_char": 281,
+          "end_char": 324
+        }
+      }
+    },
+    {
+      "id": "institute-33",
+      "title": "Институт гуманитарного образования",
+      "aliases": [
+        "Институт гуманитарного образования",
+        "гуманитарного образования",
+        "иго"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-gumanitarnogo-obrazovaniya.html",
+      "date": "2014-06-23",
+      "fetched_at": "2026-11-01T20:47:06+05:00",
+      "clean_sha256": "cd07f59122dcaa1ed18edd4e44793bf12c74661c071d071f06467ebff9e3ef5a",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина, 26",
+          "start_char": 74,
+          "end_char": 95
+        },
+        "телефон": {
+          "evidence": "Телефон: (3519) 22-99-61",
+          "start_char": 118,
+          "end_char": 142
+        }
+      }
+    },
+    {
+      "id": "institute-44",
+      "title": "Институт естествознания и стандартизации",
+      "aliases": [
+        "Институт естествознания и стандартизации",
+        "естествознания",
+        "иеис"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-estestvoznaniya-i-standartizatsii.html",
+      "date": "2014-06-16",
+      "fetched_at": "2026-11-01T20:47:07+05:00",
+      "clean_sha256": "4645029e75a2300a57a26fa3a91470727cea5d2fac1fb249eb66e4fac73cc663",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина, 38, ауд. 216, ауд. 216 (директор)",
+          "start_char": 61,
+          "end_char": 113
+        },
+        "телефон": {
+          "evidence": "Телефон: 8 (3519) 29 85 06; 8 (3519) 29 84 62",
+          "start_char": 115,
+          "end_char": 160
+        }
+      }
+    },
+    {
+      "id": "institute-50",
+      "title": "Факультет физической культуры и спортивного мастерства",
+      "aliases": [
+        "Факультет физической культуры и спортивного мастерства",
+        "физической культуры",
+        "фксм"
+      ],
+      "source": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/fakultet-fizicheskoj-kultury-i-sportivnogo-masterstva.html",
+      "date": "2014-06-24",
+      "fetched_at": "2026-11-01T20:47:09+05:00",
+      "clean_sha256": "bcf6cdf3b0aaf34c4caec85d4d76570560819e7a69a96ecdde363dc7a8133cb0",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: ул. Урицкого, дом 11, ауд. 116",
+          "start_char": 93,
+          "end_char": 130
+        },
+        "телефон": {
+          "evidence": "Телефон: (3519) 23-71-72",
+          "start_char": 132,
+          "end_char": 156
+        }
+      }
+    },
+    {
+      "id": "mother-child-room",
+      "title": "Комната матери и ребенка",
+      "aliases": [
+        "Комната матери и ребенка",
+        "матери и ребенка"
+      ],
+      "source": "https://www.magtu.ru/student/komnata-materi-i-rebenka.html",
+      "date": "2025-03-10",
+      "fetched_at": "2026-11-01T19:11:35+05:00",
+      "clean_sha256": "d0f2dbad3196e4ff607b9a415b22bf6d8a4ebd261ec7e618eb85a4d379f1081f",
+      "fields": {
+        "телефон": {
+          "evidence": "Телефон: +7 (3519) 23-63-28, +7-996-823-43-51",
+          "start_char": 561,
+          "end_char": 606
+        },
+        "график работы": {
+          "evidence": "График работы: пн-пт, 8.00 – 17.00. Прием заявок ежедневно до 16.00.",
+          "start_char": 647,
+          "end_char": 715
+        }
+      }
+    },
+    {
+      "id": "student-union",
+      "title": "Профсоюз студентов и аспирантов",
+      "aliases": [
+        "Профсоюз студентов и аспирантов",
+        "профком",
+        "профсоюз"
+      ],
+      "source": "https://www.magtu.ru/campus/profsojuzy/pervichnaya-profsoyuznaya-organizatsiya-studentov-i-aspirantov-mgtu-im-g-i-nosova.html",
+      "date": "2014-05-30",
+      "fetched_at": "2026-11-01T19:11:32+05:00",
+      "clean_sha256": "c910b3c0ed5f6fd2ca96aba99a357c0a331b20f78ca25504c0ba4c7738b1fa35",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: пр. Ленина 38, Южный корпус МГТУ, ауд. 2102",
+          "start_char": 56,
+          "end_char": 106
+        },
+        "телефон": {
+          "evidence": "Телефон: (3519) 22-53-34",
+          "start_char": 108,
+          "end_char": 132
+        },
+        "график работы": {
+          "evidence": "График работы: понедельник-четверг с 9.00 до 17.00,",
+          "start_char": 355,
+          "end_char": 406
+        }
+      }
+    },
+    {
+      "id": "youth-policy",
+      "title": "Управление молодежной политики",
+      "aliases": [
+        "Управление молодежной политики",
+        "молодежной политики"
+      ],
+      "source": "https://www.magtu.ru/vneuchebnaya-deyatelnost/otdel-po-molodezhnoj-politike.html",
+      "date": "2014-05-27",
+      "fetched_at": "2026-11-01T19:11:38+05:00",
+      "clean_sha256": "9eb5ba4feaa5c71dbd765026b9fc2dd6ad8a5508912e3190dd263555d99a1ab1",
+      "fields": {
+        "адрес": {
+          "evidence": "Адрес: ул. Калинина, д. 26, южный корпус МГТУ, аудитория 091",
+          "start_char": 39,
+          "end_char": 99
+        },
+        "телефон": {
+          "evidence": "Телефон: +7 (3519) 29-84-59",
+          "start_char": 101,
+          "end_char": 128
+        },
+        "график работы": {
+          "evidence": "График работы: понедельник – четверг, с 08:00 до 17:00; пятница, с 08:00 до 15:45; обеденный перерыв с 12:00 до 12:45",
+          "start_char": 228,
+          "end_char": 345
+        }
+      }
+    }
+  ]
+}

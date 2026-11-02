@@ -1,6 +1,46 @@
 {
   "documents": [
     {
+      "document_id": "academic-leave",
+      "status": "included",
+      "blocks": 35,
+      "clean_characters": 12173,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "admission-2026-44",
+      "status": "excluded",
+      "reason": "138 страниц правил приёма; оставлены в резерве. Для этой версии выбраны сервисы действующих студентов и краткий раздел для иностранных граждан."
+    },
+    {
+      "document_id": "campus-access-regulation",
+      "status": "included",
+      "blocks": 103,
+      "clean_characters": 32324,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "dormitory-rules",
+      "status": "included",
+      "blocks": 86,
+      "clean_characters": 53908,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "interim-assessment",
+      "status": "included",
+      "blocks": 143,
+      "clean_characters": 51044,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "one-window-regulation",
+      "status": "included",
+      "blocks": 72,
+      "clean_characters": 16156,
+      "duplicates_removed": 0
+    },
+    {
       "document_id": "practice-framework-scan-2020",
       "status": "excluded",
       "reason": "14 страниц, текстового слоя нет. Не индексируется до OCR и визуальной сверки; дату по имени файла не определяем"
@@ -13,25 +53,136 @@
       "duplicates_removed": 0
     },
     {
-      "document_id": "scholarship-regulations",
+      "document_id": "scholarship-increased-regulation",
+      "status": "included",
+      "blocks": 27,
+      "clean_characters": 8867,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "scholarship-support-regulation",
+      "status": "included",
+      "blocks": 70,
+      "clean_characters": 27783,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "student-regulation-121",
       "status": "excluded",
-      "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      "reason": "На титуле прямо указано ограничение передачи, воспроизведения и копирования без письменного разрешения. Не используется в новом корпусе."
+    },
+    {
+      "document_id": "student-regulation-128",
+      "status": "excluded",
+      "reason": "Положение об электронной подписи отобрано в резерв. В текущую выборку из 70 документов не включено."
+    },
+    {
+      "document_id": "student-regulation-129",
+      "status": "excluded",
+      "reason": "На титуле прямо указано ограничение передачи, воспроизведения и копирования без письменного разрешения. Не используется в новом корпусе."
+    },
+    {
+      "document_id": "student-regulation-26",
+      "status": "excluded",
+      "reason": "PDF не содержит читаемых страниц (0 страниц по результату pdfplumber). В индекс не включён."
+    },
+    {
+      "document_id": "student-regulation-94",
+      "status": "excluded",
+      "reason": "Кандидат в резерве: титул и последняя страница без текстового слоя; OCR и реквизиты не проверены."
+    },
+    {
+      "document_id": "student-rules",
+      "status": "included",
+      "blocks": 93,
+      "clean_characters": 24448,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "student-transfer",
+      "status": "included",
+      "blocks": 114,
+      "clean_characters": 54677,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "study-regime",
+      "status": "included",
+      "blocks": 30,
+      "clean_characters": 13649,
+      "duplicates_removed": 0
     },
     {
       "document_id": "scholarships",
-      "status": "excluded",
-      "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      "status": "included",
+      "blocks": 36,
+      "clean_characters": 13321,
+      "duplicates_removed": 0
     },
     {
       "document_id": "university-structure",
       "status": "excluded",
-      "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      "reason": "Общий каталог структуры не нужен для выбранных тем. Вместо него собраны страницы конкретных подразделений."
+    },
+    {
+      "document_id": "accessible-education",
+      "status": "included",
+      "blocks": 12,
+      "clean_characters": 3223,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "bell-schedule",
+      "status": "included",
+      "blocks": 7,
+      "clean_characters": 336,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "campus-card",
+      "status": "included",
+      "blocks": 6,
+      "clean_characters": 1757,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "campus-department",
+      "status": "included",
+      "blocks": 91,
+      "clean_characters": 6492,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "campus-services",
+      "status": "excluded",
+      "reason": "Дубликат страницы campus-department после перенаправления."
     },
     {
       "document_id": "career-about",
       "status": "included",
       "blocks": 5,
       "clean_characters": 701,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "career-article-1",
+      "status": "included",
+      "blocks": 7,
+      "clean_characters": 1233,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "career-article-2",
+      "status": "included",
+      "blocks": 11,
+      "clean_characters": 1184,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "career-article-3",
+      "status": "included",
+      "blocks": 7,
+      "clean_characters": 642,
       "duplicates_removed": 0
     },
     {
@@ -42,14 +193,234 @@
       "duplicates_removed": 0
     },
     {
-      "document_id": "education-certificates",
+      "document_id": "career-main-unit",
+      "status": "included",
+      "blocks": 26,
+      "clean_characters": 4092,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "career-orientation",
+      "status": "included",
+      "blocks": 27,
+      "clean_characters": 5291,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "career-resume-guide",
+      "status": "included",
+      "blocks": 10,
+      "clean_characters": 1040,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "diploma-instruction",
+      "status": "included",
+      "blocks": 12,
+      "clean_characters": 2726,
+      "duplicates_removed": 1
+    },
+    {
+      "document_id": "dormitory-information",
       "status": "excluded",
-      "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      "reason": "Дубликат страницы campus-department после перенаправления."
+    },
+    {
+      "document_id": "dormitory-student",
+      "status": "excluded",
+      "reason": "Дубликат страницы campus-department после перенаправления."
+    },
+    {
+      "document_id": "education-certificates",
+      "status": "included",
+      "blocks": 8,
+      "clean_characters": 2543,
+      "duplicates_removed": 0
     },
     {
       "document_id": "educational-management",
+      "status": "included",
+      "blocks": 11,
+      "clean_characters": 3323,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "eios-resources",
       "status": "excluded",
-      "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      "reason": "Дубликат страницы student-eios после перенаправления."
+    },
+    {
+      "document_id": "final-certification",
+      "status": "included",
+      "blocks": 3,
+      "clean_characters": 10172,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "graduate-office",
+      "status": "included",
+      "blocks": 12,
+      "clean_characters": 3310,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "increased-scholarship",
+      "status": "included",
+      "blocks": 15,
+      "clean_characters": 2310,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "institute-1",
+      "status": "included",
+      "blocks": 35,
+      "clean_characters": 6999,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "institute-13",
+      "status": "included",
+      "blocks": 20,
+      "clean_characters": 1485,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "institute-22",
+      "status": "included",
+      "blocks": 27,
+      "clean_characters": 9397,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "institute-28",
+      "status": "included",
+      "blocks": 25,
+      "clean_characters": 6362,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "institute-33",
+      "status": "included",
+      "blocks": 20,
+      "clean_characters": 1935,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "institute-44",
+      "status": "included",
+      "blocks": 15,
+      "clean_characters": 3541,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "institute-50",
+      "status": "included",
+      "blocks": 28,
+      "clean_characters": 2043,
+      "duplicates_removed": 3
+    },
+    {
+      "document_id": "institute-54",
+      "status": "excluded",
+      "reason": "Программы дополнительного образования отобраны в резерв; в этой выборке приоритет у действующих студенческих услуг и основных институтов."
+    },
+    {
+      "document_id": "institute-8",
+      "status": "included",
+      "blocks": 24,
+      "clean_characters": 3361,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "international-study",
+      "status": "included",
+      "blocks": 22,
+      "clean_characters": 3991,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "library-about",
+      "status": "excluded",
+      "reason": "Короткий список ссылок. Заменён содержательной страницей структуры библиотеки."
+    },
+    {
+      "document_id": "library-direct-links",
+      "status": "excluded",
+      "reason": "Инструкция со скриншотами: часть названий кнопок не попала в текстовый слой, есть редакторская пометка. До сверки не индексируется."
+    },
+    {
+      "document_id": "library-journals-guide",
+      "status": "excluded",
+      "reason": "Архивная инструкция Марк Cloud со скриншотами; применимость к нынешнему сервису не подтверждена."
+    },
+    {
+      "document_id": "library-paid-services",
+      "status": "excluded",
+      "reason": "Прайс показан изображением; текстового описания услуги нет. Нужны OCR и сверка."
+    },
+    {
+      "document_id": "library-readers",
+      "status": "excluded",
+      "reason": "Только список ссылок; не индексируется."
+    },
+    {
+      "document_id": "library-reference",
+      "status": "included",
+      "blocks": 14,
+      "clean_characters": 2668,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "library-search-guide",
+      "status": "excluded",
+      "reason": "Архивная инструкция Марк Cloud со скриншотами. На странице библиотеки указан другой сервис; до проверки применимости не индексируется."
+    },
+    {
+      "document_id": "library-structure",
+      "status": "included",
+      "blocks": 14,
+      "clean_characters": 1666,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "library-student",
+      "status": "excluded",
+      "reason": "Только список ссылок; не индексируется."
+    },
+    {
+      "document_id": "material-support",
+      "status": "included",
+      "blocks": 10,
+      "clean_characters": 2914,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "mother-child-room",
+      "status": "included",
+      "blocks": 25,
+      "clean_characters": 3096,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "original-documents",
+      "status": "included",
+      "blocks": 2,
+      "clean_characters": 839,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "paid-education",
+      "status": "included",
+      "blocks": 19,
+      "clean_characters": 3519,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "paid-services-unit",
+      "status": "included",
+      "blocks": 20,
+      "clean_characters": 3758,
+      "duplicates_removed": 0
     },
     {
       "document_id": "practice-guide",
@@ -59,6 +430,96 @@
       "duplicates_removed": 0
     },
     {
+      "document_id": "receipts-generator",
+      "status": "included",
+      "blocks": 2,
+      "clean_characters": 591,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "scholarship-details",
+      "status": "included",
+      "blocks": 26,
+      "clean_characters": 6927,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "scholarship-regulations",
+      "status": "excluded",
+      "reason": "Это файловый каталог, а не статья .item-page. Вместо списка скачаны два положения о стипендиях."
+    },
+    {
+      "document_id": "scholarship-types",
+      "status": "excluded",
+      "reason": "Дубликат страницы scholarships после перенаправления."
+    },
+    {
+      "document_id": "service-unit-102",
+      "status": "excluded",
+      "reason": "Довузовская подготовка не входит в выбранный круг вопросов действующих студентов."
+    },
+    {
+      "document_id": "service-unit-225",
+      "status": "excluded",
+      "reason": "Общее управление коммуникаций оставлено в резерве. Его студенческие службы представлены отдельными материалами."
+    },
+    {
+      "document_id": "service-unit-88",
+      "status": "included",
+      "blocks": 16,
+      "clean_characters": 2170,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "social-unit-1",
+      "status": "included",
+      "blocks": 9,
+      "clean_characters": 932,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "social-unit-2",
+      "status": "included",
+      "blocks": 11,
+      "clean_characters": 2083,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "social-unit-4",
+      "status": "included",
+      "blocks": 23,
+      "clean_characters": 4582,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "social-unit-5",
+      "status": "included",
+      "blocks": 14,
+      "clean_characters": 2367,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "social-unit-6",
+      "status": "included",
+      "blocks": 22,
+      "clean_characters": 5518,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "student-council",
+      "status": "included",
+      "blocks": 31,
+      "clean_characters": 10707,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "student-eios",
+      "status": "included",
+      "blocks": 92,
+      "clean_characters": 32118,
+      "duplicates_removed": 8
+    },
+    {
       "document_id": "student-resources",
       "status": "included",
       "blocks": 6,
@@ -66,14 +527,96 @@
       "duplicates_removed": 0
     },
     {
+      "document_id": "student-travel",
+      "status": "excluded",
+      "reason": "Страница содержит только ссылку; отдельного текста инструкции нет."
+    },
+    {
+      "document_id": "student-union",
+      "status": "included",
+      "blocks": 18,
+      "clean_characters": 2507,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "support-service-118",
+      "status": "included",
+      "blocks": 7,
+      "clean_characters": 495,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "support-service-127",
+      "status": "included",
+      "blocks": 13,
+      "clean_characters": 2575,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "support-service-171",
+      "status": "included",
+      "blocks": 54,
+      "clean_characters": 4237,
+      "duplicates_removed": 1
+    },
+    {
+      "document_id": "support-service-177",
+      "status": "included",
+      "blocks": 14,
+      "clean_characters": 2232,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "support-service-222",
+      "status": "included",
+      "blocks": 10,
+      "clean_characters": 1526,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "support-service-228",
+      "status": "included",
+      "blocks": 21,
+      "clean_characters": 4150,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "tax-certificate-request",
+      "status": "included",
+      "blocks": 39,
+      "clean_characters": 6734,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "university-faq",
+      "status": "included",
+      "blocks": 143,
+      "clean_characters": 19730,
+      "duplicates_removed": 0
+    },
+    {
+      "document_id": "youth-policy",
+      "status": "included",
+      "blocks": 29,
+      "clean_characters": 13050,
+      "duplicates_removed": 0
+    },
+    {
       "document_id": "learning-portal",
       "status": "excluded",
-      "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      "reason": "Личный кабинет не собирается. Описание открытых сервисов взято со страницы ЭИОС; прежняя ошибка не считается доказательством недоступности портала."
+    },
+    {
+      "document_id": "library-electronic",
+      "status": "included",
+      "blocks": 1,
+      "clean_characters": 217,
+      "duplicates_removed": 0
     },
     {
       "document_id": "main-site",
       "status": "excluded",
-      "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      "reason": "Главная страница доступна 01.11.2026. Не включена: новостная лента и меню, без выбранной инструкции."
     },
     {
       "document_id": "timetable-service",
@@ -83,6 +626,6 @@
       "duplicates_removed": 0
     }
   ],
-  "indexed_documents": 6,
-  "total_blocks": 102
+  "indexed_documents": 70,
+  "total_blocks": 2091
 }

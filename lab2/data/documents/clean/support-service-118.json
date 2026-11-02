@@ -1,0 +1,104 @@
+{
+  "document_id": "support-service-118",
+  "document_title": "Управление по развитию студенческого спорта",
+  "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/69-svedeniya-ob-obrazovatelnoj-organizatsii/struktura-i-organy-upravleniya-obrazovatelnoj-organizatsiej/informatsiya-o-strukturnykh-podrazdeleniyakh/upravleniya/17691-upravlenie-po-razvitiyu-studencheskogo-sporta.html",
+  "date": "2024-12-11",
+  "date_basis": "html_datePublished",
+  "document_type": "official_department_page",
+  "department": "Управление по развитию студенческого спорта",
+  "source_priority": 3,
+  "validity_status": "public_snapshot;verify_changes_before_answer",
+  "allowed_use": "navigation_and_snapshot_reference",
+  "dynamic": true,
+  "education_level": "ВО; СПО",
+  "fetched_at": "2026-11-01T20:47:22+05:00",
+  "resolved_source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/69-svedeniya-ob-obrazovatelnoj-organizatsii/struktura-i-organy-upravleniya-obrazovatelnoj-organizatsiej/informatsiya-o-strukturnykh-podrazdeleniyakh/upravleniya/17691-upravlenie-po-razvitiyu-studencheskogo-sporta.html",
+  "topic": "Службы университета",
+  "source_updated_at": "2024-12-11",
+  "document_version": null,
+  "raw_path": "data/documents/raw/support-service-118_3b082b3fec318600.html",
+  "raw_sha256": "3b082b3fec318600992629bb2f5ec35558f490282d173a66ac2b55df273899a1",
+  "clean_sha256": "0240434c25d6dffff520f0d8cfe5bfc03e822496df8b944d3112d61f7388fa55",
+  "text": "Руководитель: Корноухов Максим Сергеевич\n\nАдрес: пр. Ленина 38/2, Дворец спорта МГТУ, 2 этаж, ауд.1\n\nТелефон: +7 (3519) 29-84-38\n\ne-mail: [адрес e-mail скрыт на сайте]\n\nВКонтакте: https://vk.com/sportmgtu (https://vk.com/sportmgtu)\n\nГрафик работы: понедельник-четверг с 8:00 до 17:00, пятница с 8:00 до 15:45, перерыв 12:00 – 12:45\n\nКощеев Петр Вадимович Должность: Начальник спортклуба [адрес e-mail скрыт на сайте] +7 (904) 804-96-60 https://vk.com/petrkoshcheev (https://vk.com/petrkoshcheev)",
+  "blocks": [
+    {
+      "text": "Руководитель: Корноухов Максим Сергеевич",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление по развитию студенческого спорта"
+      ],
+      "pages": [],
+      "start_char": 0,
+      "end_char": 40,
+      "block_id": "support-service-118:b001"
+    },
+    {
+      "text": "Адрес: пр. Ленина 38/2, Дворец спорта МГТУ, 2 этаж, ауд.1",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление по развитию студенческого спорта"
+      ],
+      "pages": [],
+      "start_char": 42,
+      "end_char": 99,
+      "block_id": "support-service-118:b002"
+    },
+    {
+      "text": "Телефон: +7 (3519) 29-84-38",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление по развитию студенческого спорта"
+      ],
+      "pages": [],
+      "start_char": 101,
+      "end_char": 128,
+      "block_id": "support-service-118:b003"
+    },
+    {
+      "text": "e-mail: [адрес e-mail скрыт на сайте]",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление по развитию студенческого спорта"
+      ],
+      "pages": [],
+      "start_char": 130,
+      "end_char": 167,
+      "block_id": "support-service-118:b004"
+    },
+    {
+      "text": "ВКонтакте: https://vk.com/sportmgtu (https://vk.com/sportmgtu)",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление по развитию студенческого спорта"
+      ],
+      "pages": [],
+      "start_char": 169,
+      "end_char": 231,
+      "block_id": "support-service-118:b005"
+    },
+    {
+      "text": "График работы: понедельник-четверг с 8:00 до 17:00, пятница с 8:00 до 15:45, перерыв 12:00 – 12:45",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление по развитию студенческого спорта"
+      ],
+      "pages": [],
+      "start_char": 233,
+      "end_char": 331,
+      "block_id": "support-service-118:b006"
+    },
+    {
+      "text": "Кощеев Петр Вадимович Должность: Начальник спортклуба [адрес e-mail скрыт на сайте] +7 (904) 804-96-60 https://vk.com/petrkoshcheev (https://vk.com/petrkoshcheev)",
+      "kind": "table_row",
+      "section_path": [
+        "Управление по развитию студенческого спорта",
+        "Состав управления"
+      ],
+      "pages": [],
+      "start_char": 333,
+      "end_char": 495,
+      "block_id": "support-service-118:b007"
+    }
+  ],
+  "duplicates_removed": 0
+}

@@ -1,0 +1,103 @@
+{
+  "document_id": "career-article-3",
+  "document_title": "Идеальное собеседование. Записывай шаги",
+  "source": "https://career.magtu.ru/useful/idealnoe-sobesedovanie-zapisyvaj-shagi/",
+  "date": null,
+  "date_basis": "not_published_in_selected_content",
+  "document_type": "official_department_page",
+  "department": "Центр карьеры и взаимодействия с партнёрами",
+  "source_priority": 3,
+  "validity_status": "public_snapshot;verify_changes_before_answer",
+  "allowed_use": "navigation_and_snapshot_reference",
+  "dynamic": true,
+  "education_level": "ВО; СПО",
+  "fetched_at": "2026-11-01T20:47:15+05:00",
+  "resolved_source": "https://career.magtu.ru/useful/idealnoe-sobesedovanie-zapisyvaj-shagi/",
+  "topic": "Практика и карьера",
+  "source_updated_at": null,
+  "document_version": null,
+  "raw_path": "data/documents/raw/career-article-3_f912cd2164a2ce44.html",
+  "raw_sha256": "f912cd2164a2ce44838fe0e0dedc97ba1d7ee5816cb91f5020417da20f5e29ca",
+  "clean_sha256": "af5b70d1e091e91140d0132778af57af8c3793ba786b2daa8b29e5f3f7054626",
+  "text": "Не дублируй резюме. Нанимателям интересно услышать новую информацию.\n\nНачни с главного. В первую очередь расскажи о последней работе, а историю про подработку на втором курсе университета оставь на конец.\n\nРасскажи о причинах заинтересованности, целях, образе мышления и проектах, которыми гордишься.\n\nГовори о результатах, а не обязанностях. Если ты маркетолог, то поделись кейсом успешной рекламной кампании.\n\nЧтобы понимать, на что рассчитывать, следует оценить, сколько получают специалисты в твоей области.\n\nСамое страшное позади. Теперь можно дальше смотреть новые вакансии и ждать решения нанимателей.\n\nP.S. И помни – будь самим собой.",
+  "blocks": [
+    {
+      "text": "Не дублируй резюме. Нанимателям интересно услышать новую информацию.",
+      "kind": "paragraph",
+      "section_path": [
+        "Идеальное собеседование. Записывай шаги"
+      ],
+      "pages": [],
+      "start_char": 0,
+      "end_char": 68,
+      "block_id": "career-article-3:b001"
+    },
+    {
+      "text": "Начни с главного. В первую очередь расскажи о последней работе, а историю про подработку на втором курсе университета оставь на конец.",
+      "kind": "paragraph",
+      "section_path": [
+        "Идеальное собеседование. Записывай шаги"
+      ],
+      "pages": [],
+      "start_char": 70,
+      "end_char": 204,
+      "block_id": "career-article-3:b002"
+    },
+    {
+      "text": "Расскажи о причинах заинтересованности, целях, образе мышления и проектах, которыми гордишься.",
+      "kind": "paragraph",
+      "section_path": [
+        "Идеальное собеседование. Записывай шаги"
+      ],
+      "pages": [],
+      "start_char": 206,
+      "end_char": 300,
+      "block_id": "career-article-3:b003"
+    },
+    {
+      "text": "Говори о результатах, а не обязанностях. Если ты маркетолог, то поделись кейсом успешной рекламной кампании.",
+      "kind": "paragraph",
+      "section_path": [
+        "Идеальное собеседование. Записывай шаги"
+      ],
+      "pages": [],
+      "start_char": 302,
+      "end_char": 410,
+      "block_id": "career-article-3:b004"
+    },
+    {
+      "text": "Чтобы понимать, на что рассчитывать, следует оценить, сколько получают специалисты в твоей области.",
+      "kind": "paragraph",
+      "section_path": [
+        "Идеальное собеседование. Записывай шаги"
+      ],
+      "pages": [],
+      "start_char": 412,
+      "end_char": 511,
+      "block_id": "career-article-3:b005"
+    },
+    {
+      "text": "Самое страшное позади. Теперь можно дальше смотреть новые вакансии и ждать решения нанимателей.",
+      "kind": "paragraph",
+      "section_path": [
+        "Идеальное собеседование. Записывай шаги"
+      ],
+      "pages": [],
+      "start_char": 513,
+      "end_char": 608,
+      "block_id": "career-article-3:b006"
+    },
+    {
+      "text": "P.S. И помни – будь самим собой.",
+      "kind": "paragraph",
+      "section_path": [
+        "Идеальное собеседование. Записывай шаги"
+      ],
+      "pages": [],
+      "start_char": 610,
+      "end_char": 642,
+      "block_id": "career-article-3:b007"
+    }
+  ],
+  "duplicates_removed": 0
+}

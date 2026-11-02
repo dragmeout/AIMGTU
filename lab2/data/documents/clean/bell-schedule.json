@@ -1,0 +1,103 @@
+{
+  "document_id": "bell-schedule",
+  "document_title": "Расписание звонков: высшее образование",
+  "source": "https://www.magtu.ru/student/bakalavriat-spetsialitet-magistratura/raspisanie-zvonkov.html",
+  "date": "2014-04-18",
+  "date_basis": "html_datePublished",
+  "document_type": "official_department_page",
+  "department": "Учебно-методическое управление",
+  "source_priority": 3,
+  "validity_status": "public_snapshot;verify_changes_before_answer",
+  "allowed_use": "dated_reference_not_current_rule",
+  "dynamic": true,
+  "education_level": "ВО",
+  "fetched_at": "2026-11-01T19:06:36+05:00",
+  "resolved_source": "https://www.magtu.ru/student/mpk/raspisanie-zvonkov.html",
+  "topic": "Расписание",
+  "source_updated_at": "2025-08-12",
+  "document_version": null,
+  "raw_path": "data/documents/raw/bell-schedule_a363b6ccc90e71e7.html",
+  "raw_sha256": "a363b6ccc90e71e787d3dd7cdd428e40cde547939fb2b7d15e757188266adba0",
+  "clean_sha256": "f55dcbbf9dc51bf4e61d7a1f576289a52dffa5b1d471897c13fe8b3dd825ddd5",
+  "text": "Номер пары: Первая пара | Время: 8.30 – 10.00\n\nНомер пары: Вторая пара | Время: 10.10 – 11.40\n\nНомер пары: Третья пара | Время: 12.20 – 13.50\n\nНомер пары: Четвертая пара | Время: 14.00 – 15.30\n\nНомер пары: Пятая пара | Время: 15.40 – 17.10\n\nНомер пары: Шестая пара | Время: 17.20 – 18.50\n\nНомер пары: Седьмая пара | Время: 19.00 – 20.30",
+  "blocks": [
+    {
+      "text": "Номер пары: Первая пара | Время: 8.30 – 10.00",
+      "kind": "table_row",
+      "section_path": [
+        "Расписание звонков: высшее образование"
+      ],
+      "pages": [],
+      "start_char": 0,
+      "end_char": 45,
+      "block_id": "bell-schedule:b001"
+    },
+    {
+      "text": "Номер пары: Вторая пара | Время: 10.10 – 11.40",
+      "kind": "table_row",
+      "section_path": [
+        "Расписание звонков: высшее образование"
+      ],
+      "pages": [],
+      "start_char": 47,
+      "end_char": 93,
+      "block_id": "bell-schedule:b002"
+    },
+    {
+      "text": "Номер пары: Третья пара | Время: 12.20 – 13.50",
+      "kind": "table_row",
+      "section_path": [
+        "Расписание звонков: высшее образование"
+      ],
+      "pages": [],
+      "start_char": 95,
+      "end_char": 141,
+      "block_id": "bell-schedule:b003"
+    },
+    {
+      "text": "Номер пары: Четвертая пара | Время: 14.00 – 15.30",
+      "kind": "table_row",
+      "section_path": [
+        "Расписание звонков: высшее образование"
+      ],
+      "pages": [],
+      "start_char": 143,
+      "end_char": 192,
+      "block_id": "bell-schedule:b004"
+    },
+    {
+      "text": "Номер пары: Пятая пара | Время: 15.40 – 17.10",
+      "kind": "table_row",
+      "section_path": [
+        "Расписание звонков: высшее образование"
+      ],
+      "pages": [],
+      "start_char": 194,
+      "end_char": 239,
+      "block_id": "bell-schedule:b005"
+    },
+    {
+      "text": "Номер пары: Шестая пара | Время: 17.20 – 18.50",
+      "kind": "table_row",
+      "section_path": [
+        "Расписание звонков: высшее образование"
+      ],
+      "pages": [],
+      "start_char": 241,
+      "end_char": 287,
+      "block_id": "bell-schedule:b006"
+    },
+    {
+      "text": "Номер пары: Седьмая пара | Время: 19.00 – 20.30",
+      "kind": "table_row",
+      "section_path": [
+        "Расписание звонков: высшее образование"
+      ],
+      "pages": [],
+      "start_char": 289,
+      "end_char": 336,
+      "block_id": "bell-schedule:b007"
+    }
+  ],
+  "duplicates_removed": 0
+}

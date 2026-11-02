@@ -1,0 +1,136 @@
+{
+  "document_id": "career-resume-guide",
+  "document_title": "Гайд / резюме",
+  "source": "https://career.magtu.ru/studentu/gajd-rezyume/",
+  "date": null,
+  "date_basis": "not_published_in_selected_content",
+  "document_type": "official_department_page",
+  "department": "Центр карьеры и взаимодействия с партнёрами",
+  "source_priority": 3,
+  "validity_status": "public_snapshot;verify_changes_before_answer",
+  "allowed_use": "navigation_and_snapshot_reference",
+  "dynamic": true,
+  "education_level": "ВО; СПО",
+  "fetched_at": "2026-11-01T20:51:13+05:00",
+  "resolved_source": "https://career.magtu.ru/studentu/gajd-rezyume/",
+  "topic": "Практика и карьера",
+  "source_updated_at": null,
+  "document_version": null,
+  "raw_path": "data/documents/raw/career-resume-guide_be93a43350f6d983.html",
+  "raw_sha256": "be93a43350f6d983ec22f49b52b691e43503774438e90ea3eebaf4ceee0bcadc",
+  "clean_sha256": "0a0aba372c10ab9da9aad8e1da6cc01ece1cddfebc6efa2512ed4109fb804aaa",
+  "text": "Чтобы сократить время поисков, команда Центра карьеры и взаимодействия с партнерами МГТУ им. Г. И. Носова собрала лучшие ресурсы и советы, которые помогут не только найти ту самую работу мечты, но и блестяще пройти собеседование.\n\nСтатья (содержание)\n\nИдеальное резюме — это твой пропуск к карьерным высотам.\n\nА это значит, что:\n\n- оно должно у тебя быть\n- и быть оформлено правильно\n\nКаждая строчка твоего резюме в идеале отвечает на вопрос работодателя: «Почему мне надо пригласить этого человека на собеседование?».\n\nСоставлять резюме желательно не под кандидатуру соискателя, а под требование конкретного работодателя, с учетом особенностей компании.\n\nТвоя профессиональная визитка должна включать следующие разделы:\n\n- Должность\n- Контактные данные\n- Опыт работы\n- Образование\n- Профессиональные навыки\n- Рекомендации\n- Дополнительная информация\n\nНа каждое новое интервью следует приходить с новым резюме и никогда — без него. По нашему образцу от Факультетус (https://vk.com/facultetus) ты можешь легко составить свое идеально резюме.",
+  "blocks": [
+    {
+      "text": "Чтобы сократить время поисков, команда Центра карьеры и взаимодействия с партнерами МГТУ им. Г. И. Носова собрала лучшие ресурсы и советы, которые помогут не только найти ту самую работу мечты, но и блестяще пройти собеседование.",
+      "kind": "paragraph",
+      "section_path": [
+        "Гайд / резюме"
+      ],
+      "pages": [],
+      "start_char": 0,
+      "end_char": 229,
+      "block_id": "career-resume-guide:b001"
+    },
+    {
+      "text": "Статья (содержание)",
+      "kind": "paragraph",
+      "section_path": [
+        "Гайд / резюме"
+      ],
+      "pages": [],
+      "start_char": 231,
+      "end_char": 250,
+      "block_id": "career-resume-guide:b002"
+    },
+    {
+      "text": "Идеальное резюме — это твой пропуск к карьерным высотам.",
+      "kind": "paragraph",
+      "section_path": [
+        "Гайд / резюме"
+      ],
+      "pages": [],
+      "start_char": 252,
+      "end_char": 308,
+      "block_id": "career-resume-guide:b003"
+    },
+    {
+      "text": "А это значит, что:",
+      "kind": "paragraph",
+      "section_path": [
+        "Гайд / резюме"
+      ],
+      "pages": [],
+      "start_char": 310,
+      "end_char": 328,
+      "block_id": "career-resume-guide:b004"
+    },
+    {
+      "text": "- оно должно у тебя быть\n- и быть оформлено правильно",
+      "kind": "list",
+      "section_path": [
+        "Гайд / резюме"
+      ],
+      "pages": [],
+      "start_char": 330,
+      "end_char": 383,
+      "block_id": "career-resume-guide:b005"
+    },
+    {
+      "text": "Каждая строчка твоего резюме в идеале отвечает на вопрос работодателя: «Почему мне надо пригласить этого человека на собеседование?».",
+      "kind": "paragraph",
+      "section_path": [
+        "Гайд / резюме"
+      ],
+      "pages": [],
+      "start_char": 385,
+      "end_char": 518,
+      "block_id": "career-resume-guide:b006"
+    },
+    {
+      "text": "Составлять резюме желательно не под кандидатуру соискателя, а под требование конкретного работодателя, с учетом особенностей компании.",
+      "kind": "paragraph",
+      "section_path": [
+        "Гайд / резюме"
+      ],
+      "pages": [],
+      "start_char": 520,
+      "end_char": 654,
+      "block_id": "career-resume-guide:b007"
+    },
+    {
+      "text": "Твоя профессиональная визитка должна включать следующие разделы:",
+      "kind": "paragraph",
+      "section_path": [
+        "Гайд / резюме"
+      ],
+      "pages": [],
+      "start_char": 656,
+      "end_char": 720,
+      "block_id": "career-resume-guide:b008"
+    },
+    {
+      "text": "- Должность\n- Контактные данные\n- Опыт работы\n- Образование\n- Профессиональные навыки\n- Рекомендации\n- Дополнительная информация",
+      "kind": "list",
+      "section_path": [
+        "Гайд / резюме"
+      ],
+      "pages": [],
+      "start_char": 722,
+      "end_char": 850,
+      "block_id": "career-resume-guide:b009"
+    },
+    {
+      "text": "На каждое новое интервью следует приходить с новым резюме и никогда — без него. По нашему образцу от Факультетус (https://vk.com/facultetus) ты можешь легко составить свое идеально резюме.",
+      "kind": "paragraph",
+      "section_path": [
+        "Гайд / резюме"
+      ],
+      "pages": [],
+      "start_char": 852,
+      "end_char": 1040,
+      "block_id": "career-resume-guide:b010"
+    }
+  ],
+  "duplicates_removed": 0
+}

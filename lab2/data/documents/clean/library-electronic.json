@@ -1,0 +1,37 @@
+{
+  "document_id": "library-electronic",
+  "document_title": "Электронная библиотека",
+  "source": "https://lib.magtu.ru/elektronnaya-biblioteka",
+  "date": "2018-08-21",
+  "date_basis": "html_datePublished",
+  "document_type": "official_department_page",
+  "department": "Библиотечно-информационный комплекс",
+  "source_priority": 4,
+  "validity_status": "public_snapshot;verify_changes_before_answer",
+  "allowed_use": "navigation_only",
+  "dynamic": true,
+  "education_level": "ВО",
+  "fetched_at": "2026-11-01T19:06:48+05:00",
+  "resolved_source": "https://lib.magtu.ru/elektronnaya-biblioteka",
+  "topic": "Библиотека",
+  "source_updated_at": "2023-11-15",
+  "document_version": null,
+  "raw_path": "data/documents/raw/library-electronic_a25d9b9178ed1f8d.html",
+  "raw_sha256": "a25d9b9178ed1f8d33bf89438e052794d08ca5cd415ea085c5a332dece883175",
+  "clean_sha256": "80a4e7a35efa721e4f478ac3b010fd7ca6644d229a03c0066a0fe84f9c930d31",
+  "text": "- Электронная библиотека МГТУ (https://host.megaprolib.net/MP0109/Web)\n- Инструкция по открытию прямых ссылок на литературу, указанную в рабочих программах (https://lib.magtu.ru/images/news/2021/02/01/instrukziya.pdf)",
+  "blocks": [
+    {
+      "text": "- Электронная библиотека МГТУ (https://host.megaprolib.net/MP0109/Web)\n- Инструкция по открытию прямых ссылок на литературу, указанную в рабочих программах (https://lib.magtu.ru/images/news/2021/02/01/instrukziya.pdf)",
+      "kind": "list",
+      "section_path": [
+        "Электронная библиотека"
+      ],
+      "pages": [],
+      "start_char": 0,
+      "end_char": 217,
+      "block_id": "library-electronic:b001"
+    }
+  ],
+  "duplicates_removed": 0
+}

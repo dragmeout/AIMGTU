@@ -1,0 +1,48 @@
+{
+  "document_id": "original-documents",
+  "document_title": "Получение оригиналов документов об образовании",
+  "source": "https://www.magtu.ru/alumni/poluchenie-originalov-dokumentov-ob-obrazovanii.html",
+  "date": "2020-07-02",
+  "date_basis": "html_datePublished",
+  "document_type": "official_department_page",
+  "department": "МГТУ им. Г.И. Носова",
+  "source_priority": 3,
+  "validity_status": "public_snapshot;verify_changes_before_answer",
+  "allowed_use": "navigation_and_snapshot_reference",
+  "dynamic": true,
+  "education_level": "ВО",
+  "fetched_at": "2026-11-01T19:06:42+05:00",
+  "resolved_source": "https://www.magtu.ru/alumni/poluchenie-originalov-dokumentov-ob-obrazovanii.html",
+  "topic": "Документы об обучении",
+  "source_updated_at": "2024-05-15",
+  "document_version": null,
+  "raw_path": "data/documents/raw/original-documents_3d126bde3d41eec9.html",
+  "raw_sha256": "3d126bde3d41eec9520aa86daa952110c0bf921fbeabffbcd8aa4898e033233a",
+  "clean_sha256": "e07b7c87f0603ee83b2b2bfb86d5c77194f63dfa2f9b6ebdd8ca29eba4cd07e7",
+  "text": "ВАЖНО! В случае невозможности личного присутствия для получения документов об образовании возможно получение по доверенности. Форма размещена на сайте МГТУ им. Г.И. Носова по ссылке (https://www.magtu.ru/component/jdownloads/send/263-vysshee-obrazovanie/8665-doverennost.html). В данном случае уполномоченное лицо предоставляет документ удостоверяющий личность, ксерокопии паспортов доверителя и уполномоченного, заполненный бланк доверенности.\n\nПри возникновении вопросов Вы можете связаться с Отделом по работе с выпускниками (https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/uchebno-metodicheskoe-upravlenie/%D0%BE%D1%82%D0%B4%D0%B5%D0%BB-%D0%BF%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5-%D1%81-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8.html) МГТУ им. Г.И. Носова с 8-00 до 12-00",
+  "blocks": [
+    {
+      "text": "ВАЖНО! В случае невозможности личного присутствия для получения документов об образовании возможно получение по доверенности. Форма размещена на сайте МГТУ им. Г.И. Носова по ссылке (https://www.magtu.ru/component/jdownloads/send/263-vysshee-obrazovanie/8665-doverennost.html). В данном случае уполномоченное лицо предоставляет документ удостоверяющий личность, ксерокопии паспортов доверителя и уполномоченного, заполненный бланк доверенности.",
+      "kind": "paragraph",
+      "section_path": [
+        "Получение оригиналов документов об образовании"
+      ],
+      "pages": [],
+      "start_char": 0,
+      "end_char": 444,
+      "block_id": "original-documents:b001"
+    },
+    {
+      "text": "При возникновении вопросов Вы можете связаться с Отделом по работе с выпускниками (https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/uchebno-metodicheskoe-upravlenie/%D0%BE%D1%82%D0%B4%D0%B5%D0%BB-%D0%BF%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5-%D1%81-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8.html) МГТУ им. Г.И. Носова с 8-00 до 12-00",
+      "kind": "paragraph",
+      "section_path": [
+        "Получение оригиналов документов об образовании"
+      ],
+      "pages": [],
+      "start_char": 446,
+      "end_char": 839,
+      "block_id": "original-documents:b002"
+    }
+  ],
+  "duplicates_removed": 0
+}

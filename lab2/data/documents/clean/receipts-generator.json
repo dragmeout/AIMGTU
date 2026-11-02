@@ -1,0 +1,50 @@
+{
+  "document_id": "receipts-generator",
+  "document_title": "Генератор квитанций",
+  "source": "https://www.magtu.ru/servisy-sajta/generator-kvitantsij.html",
+  "date": "2014-08-20",
+  "date_basis": "html_datePublished",
+  "document_type": "official_department_page",
+  "department": "МГТУ им. Г.И. Носова",
+  "source_priority": 3,
+  "validity_status": "public_snapshot;verify_changes_before_answer",
+  "allowed_use": "navigation_and_snapshot_reference",
+  "dynamic": true,
+  "education_level": "ВО; СПО",
+  "fetched_at": "2026-11-01T20:46:53+05:00",
+  "resolved_source": "https://www.magtu.ru/servisy-sajta/generator-kvitantsij.html",
+  "topic": "Оплата обучения",
+  "source_updated_at": "2019-01-22",
+  "document_version": null,
+  "raw_path": "data/documents/raw/receipts-generator_7bdbc461f07ea9e4.html",
+  "raw_sha256": "7bdbc461f07ea9e4c009f4f81e63afb409c651f6f713d58785f59e2ce14f1acb",
+  "clean_sha256": "d039f822289c5570032ab80c5d43d3f1d2a23f58b109cec7e72807b1344c6481",
+  "text": "Посмотреть информацию о состоянии лицевого счёта (номер л/с, начисления/поступления оплаты) а также сгенерировать квитанцию на оплату можно в личном кабинете пользователя на образовательном портале университета по адресу: http://newlms.magtu.ru/report/magtu_bill_quittance_for_student/. (http://newlms.magtu.ru/report/magtu_bill_quittance_for_student/)\n\nОбратите внимание, что вы можете произвести оплату через мобильное приложение, систему «Сбербанк ОнЛ@йн» (https://online.sberbank.ru/CSAFront/index.do) и в банкоматах Сбербанка с помощью QR-кода, который генерируется вместе с квитанцией.",
+  "blocks": [
+    {
+      "text": "Посмотреть информацию о состоянии лицевого счёта (номер л/с, начисления/поступления оплаты) а также сгенерировать квитанцию на оплату можно в личном кабинете пользователя на образовательном портале университета по адресу: http://newlms.magtu.ru/report/magtu_bill_quittance_for_student/. (http://newlms.magtu.ru/report/magtu_bill_quittance_for_student/)",
+      "kind": "paragraph",
+      "section_path": [
+        "Генератор квитанций",
+        "Уважаемые плательщики!"
+      ],
+      "pages": [],
+      "start_char": 0,
+      "end_char": 352,
+      "block_id": "receipts-generator:b001"
+    },
+    {
+      "text": "Обратите внимание, что вы можете произвести оплату через мобильное приложение, систему «Сбербанк ОнЛ@йн» (https://online.sberbank.ru/CSAFront/index.do) и в банкоматах Сбербанка с помощью QR-кода, который генерируется вместе с квитанцией.",
+      "kind": "paragraph",
+      "section_path": [
+        "Генератор квитанций",
+        "Уважаемые плательщики!"
+      ],
+      "pages": [],
+      "start_char": 354,
+      "end_char": 591,
+      "block_id": "receipts-generator:b002"
+    }
+  ],
+  "duplicates_removed": 0
+}

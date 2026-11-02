@@ -1,0 +1,136 @@
+{
+  "document_id": "support-service-222",
+  "document_title": "Управление информационных технологий и АСУ",
+  "source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/upravlenie-informatsionnykh-tekhnologij-i-asu.html",
+  "date": "2014-06-17",
+  "date_basis": "html_datePublished",
+  "document_type": "official_department_page",
+  "department": "Управление информационных технологий и АСУ",
+  "source_priority": 3,
+  "validity_status": "public_snapshot;verify_changes_before_answer",
+  "allowed_use": "navigation_and_snapshot_reference",
+  "dynamic": true,
+  "education_level": "ВО; СПО",
+  "fetched_at": "2026-11-01T20:47:25+05:00",
+  "resolved_source": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/upravlenie-informatsionnykh-tekhnologij-i-asu.html",
+  "topic": "Службы университета",
+  "source_updated_at": "2024-03-28",
+  "document_version": null,
+  "raw_path": "data/documents/raw/support-service-222_6cfa10250bafa098.html",
+  "raw_sha256": "6cfa10250bafa0987a5617a4fc073dfe3d9c493a2158260aff183386529c4fe9",
+  "clean_sha256": "9c37686ae4d78129b7b9ed41431525634d90e7e1a7c6b1b6801321147c74a43d",
+  "text": "Начальник УИТ и АСУ: Уваровский Андрей Германович\n\nАдрес: ул. Калинина, 26 (ГУК), ауд. 280\n\nТелефон: +7 (3519) 22-19-05\n\nE-mail: [адрес e-mail скрыт на сайте]\n\nПоложение об управлении (https://www.magtu.ru/filearchive_new/struktura_universiteta/polojeniya_o_strukturnyih_podrazdeleniyah/strukturnyie_podrazdeleniya/upravl_inform_tehnol.pdf)\n\nУправление информационных технологий и автоматизированных систем управления (УИТ и АСУ) - структурное подразделение университета, занимающееся внедрением информационных технологий (ИТ) во все сферы деятельности вуза и обеспечивающее соответствие инфраструктуры информатизации (https://www.magtu.ru/sveden/informatizatsiya.html) стратегическим целям университета.\n\nОсновные направления деятельности УИТ и АСУ:\n\n1. Создание надёжной и эффективной инфраструктуры информатизации.\n2. Внедрение унифицированных способов доступа к информационным ресурсам.\n3. Формирование корпоративного информационного пространства университета.\n\nОсновными задачами УИТ и АСУ являются:\n\n- Программно-техническое сопровождение средств вычислительной техники в компьютерных классах и подразделениях университета.\n- Разработка, внедрение и сопровождение проектов, направленных на создание единого информационного пространства университета.\n- Разработка, внедрение и сопровождение корпоративных информационных систем.\n- Развитие сетевой инфраструктуры и организация доступа к информационным ресурсам.\n- Разработка и сопровождение web-ресурсов и мобильных приложений.\n- Обеспечение технической защиты информации.",
+  "blocks": [
+    {
+      "text": "Начальник УИТ и АСУ: Уваровский Андрей Германович",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление информационных технологий и АСУ"
+      ],
+      "pages": [],
+      "start_char": 0,
+      "end_char": 49,
+      "block_id": "support-service-222:b001"
+    },
+    {
+      "text": "Адрес: ул. Калинина, 26 (ГУК), ауд. 280",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление информационных технологий и АСУ"
+      ],
+      "pages": [],
+      "start_char": 51,
+      "end_char": 90,
+      "block_id": "support-service-222:b002"
+    },
+    {
+      "text": "Телефон: +7 (3519) 22-19-05",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление информационных технологий и АСУ"
+      ],
+      "pages": [],
+      "start_char": 92,
+      "end_char": 119,
+      "block_id": "support-service-222:b003"
+    },
+    {
+      "text": "E-mail: [адрес e-mail скрыт на сайте]",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление информационных технологий и АСУ"
+      ],
+      "pages": [],
+      "start_char": 121,
+      "end_char": 158,
+      "block_id": "support-service-222:b004"
+    },
+    {
+      "text": "Положение об управлении (https://www.magtu.ru/filearchive_new/struktura_universiteta/polojeniya_o_strukturnyih_podrazdeleniyah/strukturnyie_podrazdeleniya/upravl_inform_tehnol.pdf)",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление информационных технологий и АСУ"
+      ],
+      "pages": [],
+      "start_char": 160,
+      "end_char": 340,
+      "block_id": "support-service-222:b005"
+    },
+    {
+      "text": "Управление информационных технологий и автоматизированных систем управления (УИТ и АСУ) - структурное подразделение университета, занимающееся внедрением информационных технологий (ИТ) во все сферы деятельности вуза и обеспечивающее соответствие инфраструктуры информатизации (https://www.magtu.ru/sveden/informatizatsiya.html) стратегическим целям университета.",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление информационных технологий и АСУ"
+      ],
+      "pages": [],
+      "start_char": 342,
+      "end_char": 704,
+      "block_id": "support-service-222:b006"
+    },
+    {
+      "text": "Основные направления деятельности УИТ и АСУ:",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление информационных технологий и АСУ"
+      ],
+      "pages": [],
+      "start_char": 706,
+      "end_char": 750,
+      "block_id": "support-service-222:b007"
+    },
+    {
+      "text": "1. Создание надёжной и эффективной инфраструктуры информатизации.\n2. Внедрение унифицированных способов доступа к информационным ресурсам.\n3. Формирование корпоративного информационного пространства университета.",
+      "kind": "list",
+      "section_path": [
+        "Управление информационных технологий и АСУ"
+      ],
+      "pages": [],
+      "start_char": 752,
+      "end_char": 964,
+      "block_id": "support-service-222:b008"
+    },
+    {
+      "text": "Основными задачами УИТ и АСУ являются:",
+      "kind": "paragraph",
+      "section_path": [
+        "Управление информационных технологий и АСУ"
+      ],
+      "pages": [],
+      "start_char": 966,
+      "end_char": 1004,
+      "block_id": "support-service-222:b009"
+    },
+    {
+      "text": "- Программно-техническое сопровождение средств вычислительной техники в компьютерных классах и подразделениях университета.\n- Разработка, внедрение и сопровождение проектов, направленных на создание единого информационного пространства университета.\n- Разработка, внедрение и сопровождение корпоративных информационных систем.\n- Развитие сетевой инфраструктуры и организация доступа к информационным ресурсам.\n- Разработка и сопровождение web-ресурсов и мобильных приложений.\n- Обеспечение технической защиты информации.",
+      "kind": "list",
+      "section_path": [
+        "Управление информационных технологий и АСУ"
+      ],
+      "pages": [],
+      "start_char": 1006,
+      "end_char": 1526,
+      "block_id": "support-service-222:b010"
+    }
+  ],
+  "duplicates_removed": 0
+}
