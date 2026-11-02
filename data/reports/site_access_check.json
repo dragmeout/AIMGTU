@@ -1,0 +1,67 @@
+{
+  "checked_date": "2026-11-01",
+  "method": "urllib GET, response saved for inspection",
+  "checks": [
+    {
+      "i": 0,
+      "url": "https://www.magtu.ru/sveden/grants.html",
+      "final": "https://www.magtu.ru/sveden/grants.html",
+      "status": 200,
+      "bytes": 144923,
+      "type": "text/html; charset=utf-8",
+      "title": "Стипендии и меры поддержки обучающихся - ФГБОУ ВО «Магнитогорский государственный технический университет им. Г.И. Носова»",
+      "checked_date": "2026-11-01"
+    },
+    {
+      "i": 1,
+      "url": "https://www.magtu.ru/",
+      "final": "https://www.magtu.ru/",
+      "status": 200,
+      "bytes": 170163,
+      "type": "text/html; charset=utf-8",
+      "title": "Сайт МГТУ - ФГБОУ ВО «Магнитогорский государственный технический университет им. Г.И. Носова»",
+      "checked_date": "2026-11-01"
+    },
+    {
+      "i": 2,
+      "url": "https://magtu.ru/sveden/grants.html",
+      "final": "https://www.magtu.ru/sveden/grants.html",
+      "status": 200,
+      "bytes": 144923,
+      "type": "text/html; charset=utf-8",
+      "title": "Стипендии и меры поддержки обучающихся - ФГБОУ ВО «Магнитогорский государственный технический университет им. Г.И. Носова»",
+      "checked_date": "2026-11-01"
+    },
+    {
+      "i": 3,
+      "url": "https://www.magtu.ru/sveden/document.html",
+      "final": "https://www.magtu.ru/sveden/document.html",
+      "status": 200,
+      "bytes": 259287,
+      "type": "text/html; charset=utf-8",
+      "title": "Документы - ФГБОУ ВО «Магнитогорский государственный технический университет им. Г.И. Носова»",
+      "checked_date": "2026-11-01"
+    },
+    {
+      "i": 4,
+      "url": "https://lib.magtu.ru/",
+      "final": "https://lib.magtu.ru/",
+      "status": 200,
+      "bytes": 76569,
+      "type": "text/html; charset=utf-8",
+      "title": "Библиотечный комплекс МГТУ им. Г.И. Носова - Новости",
+      "checked_date": "2026-11-01"
+    },
+    {
+      "i": 5,
+      "url": "https://career.magtu.ru/studentu/praktika/",
+      "final": "https://career.magtu.ru/studentu/praktika/",
+      "status": 200,
+      "bytes": 91791,
+      "type": "text/html; charset=UTF-8",
+      "title": "",
+      "checked_date": "2026-11-01"
+    }
+  ],
+  "conclusion": "Official main site accessible; earlier fetch errors do not establish impossibility of parsing."
+}

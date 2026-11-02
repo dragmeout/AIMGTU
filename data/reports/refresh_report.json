@@ -1,0 +1,580 @@
+{
+  "checked_date": "2026-11-01",
+  "previous_check": {
+    "checked_at": "2026-10-04T19:31:19+05:00",
+    "events": [
+      {
+        "document_id": "practice-guide",
+        "action": "added",
+        "old_sha256": null,
+        "new_sha256": "8c80622d910fddf1fbf0e84c79ebc39ba30cd5d6e04808842940b5ef2281fb60"
+      },
+      {
+        "document_id": "career-consultation",
+        "action": "added",
+        "old_sha256": null,
+        "new_sha256": "1211e62ec262a7318c7ec4838b50f0f6414785fbd766c67639109b91e2dd7fd6"
+      },
+      {
+        "document_id": "student-resources",
+        "action": "added",
+        "old_sha256": null,
+        "new_sha256": "91cf3b3208a7fdbf869f95624443eb7436e2d5d221ba26af6624894bb117d53c"
+      },
+      {
+        "document_id": "career-about",
+        "action": "added",
+        "old_sha256": null,
+        "new_sha256": "d40fe19ad259325602ea90c18ac2377b4e4dda11c8a808ccde473b950425750e"
+      },
+      {
+        "document_id": "timetable-service",
+        "action": "added",
+        "old_sha256": null,
+        "new_sha256": "bc2321ea796812d93a01b980b714517ea197a356b1a061795b23708c1104b467"
+      },
+      {
+        "document_id": "practice-regulation-vo-2024",
+        "action": "added",
+        "old_sha256": null,
+        "new_sha256": "459bed68a29840c33a8a52d224a524717b4f560567a2320757b0fc66e2521d60"
+      },
+      {
+        "document_id": "practice-framework-scan-2020",
+        "action": "added",
+        "old_sha256": null,
+        "new_sha256": "0a322f04071af681d92ccd47e00e45426ef8d771660df089388423dfcd024baf"
+      },
+      {
+        "document_id": "main-site",
+        "action": "access_error",
+        "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      },
+      {
+        "document_id": "university-structure",
+        "action": "access_error",
+        "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      },
+      {
+        "document_id": "educational-management",
+        "action": "access_error",
+        "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      },
+      {
+        "document_id": "scholarships",
+        "action": "access_error",
+        "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      },
+      {
+        "document_id": "scholarship-regulations",
+        "action": "access_error",
+        "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      },
+      {
+        "document_id": "learning-portal",
+        "action": "access_error",
+        "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      },
+      {
+        "document_id": "education-certificates",
+        "action": "access_error",
+        "reason": "URL/redirect outside exact HTTPS allowlist: http://google.com/cookies.html"
+      }
+    ]
+  },
+  "events": [
+    {
+      "document_id": "educational-management",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/uchebno-metodicheskoe-upravlenie.html",
+      "fetched_at": "2026-11-01T19:06:49+05:00"
+    },
+    {
+      "document_id": "scholarships",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/grants.html",
+      "fetched_at": "2026-11-01T19:06:21+05:00"
+    },
+    {
+      "document_id": "education-certificates",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/student/bakalavriat-spetsialitet-magistratura/diplomy-udostovereniya-svidetelstva.html",
+      "fetched_at": "2026-11-01T19:06:40+05:00"
+    },
+    {
+      "document_id": "scholarship-details",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/grants/svedeniya-o-vidakh-stipendij/podrobnee-o-vidakh-stipendii.html",
+      "fetched_at": "2026-11-01T19:06:21+05:00"
+    },
+    {
+      "document_id": "scholarship-types",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/grants.html",
+      "fetched_at": "2026-11-01T19:06:24+05:00"
+    },
+    {
+      "document_id": "material-support",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/grants/svedeniya-o-vidakh-stipendij/informatsiya-o-vidakh-materialnoj-podderzhki.html",
+      "fetched_at": "2026-11-01T19:06:24+05:00"
+    },
+    {
+      "document_id": "increased-scholarship",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/grants/povyshennaya-gosudarstvennaya-akademicheskaya-stipendiya.html",
+      "fetched_at": "2026-11-01T19:06:24+05:00"
+    },
+    {
+      "document_id": "dormitory-student",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/studencheskij-gorodok.html",
+      "fetched_at": "2026-11-01T19:06:30+05:00"
+    },
+    {
+      "document_id": "campus-services",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/studencheskij-gorodok.html",
+      "fetched_at": "2026-11-01T19:06:30+05:00"
+    },
+    {
+      "document_id": "campus-department",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/studencheskij-gorodok.html",
+      "fetched_at": "2026-11-01T19:06:34+05:00"
+    },
+    {
+      "document_id": "dormitory-information",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/studencheskij-gorodok.html",
+      "fetched_at": "2026-11-01T19:06:36+05:00"
+    },
+    {
+      "document_id": "bell-schedule",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/student/mpk/raspisanie-zvonkov.html",
+      "fetched_at": "2026-11-01T19:06:36+05:00"
+    },
+    {
+      "document_id": "diploma-instruction",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/alumni/instruktsiya-studentu-pri-poluchenii-diploma-i-prilozheniya-k-diplomu.html",
+      "fetched_at": "2026-11-01T19:06:39+05:00"
+    },
+    {
+      "document_id": "campus-card",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/actual/kampusnaya-karta.html",
+      "fetched_at": "2026-11-01T19:06:39+05:00"
+    },
+    {
+      "document_id": "original-documents",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/alumni/poluchenie-originalov-dokumentov-ob-obrazovanii.html",
+      "fetched_at": "2026-11-01T19:06:42+05:00"
+    },
+    {
+      "document_id": "paid-education",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/paid_edu.html",
+      "fetched_at": "2026-11-01T19:06:43+05:00"
+    },
+    {
+      "document_id": "student-eios",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/objects/purposeeios.html",
+      "fetched_at": "2026-11-01T19:06:46+05:00"
+    },
+    {
+      "document_id": "eios-resources",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/objects/purposeeios.html",
+      "fetched_at": "2026-11-01T19:06:46+05:00"
+    },
+    {
+      "document_id": "final-certification",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/student/bakalavriat-spetsialitet-magistratura/gosudarstvennaya-itogovaya-attestatsiya.html",
+      "fetched_at": "2026-11-01T19:06:46+05:00"
+    },
+    {
+      "document_id": "library-about",
+      "status": "downloaded",
+      "resolved_url": "https://lib.magtu.ru/bibliotechno-informatsionnyj-kompleks",
+      "fetched_at": "2026-11-01T19:06:48+05:00"
+    },
+    {
+      "document_id": "library-electronic",
+      "status": "downloaded",
+      "resolved_url": "https://lib.magtu.ru/elektronnaya-biblioteka",
+      "fetched_at": "2026-11-01T19:06:48+05:00"
+    },
+    {
+      "document_id": "library-readers",
+      "status": "downloaded",
+      "resolved_url": "https://lib.magtu.ru/chitatelyu",
+      "fetched_at": "2026-11-01T19:06:49+05:00"
+    },
+    {
+      "document_id": "library-reference",
+      "status": "downloaded",
+      "resolved_url": "https://lib.magtu.ru/chitatelyu/studentu/spravochno-bibliograficheskoe-obsluzhivanie",
+      "fetched_at": "2026-11-01T19:06:49+05:00"
+    },
+    {
+      "document_id": "library-paid-services",
+      "status": "downloaded",
+      "resolved_url": "https://lib.magtu.ru/chitatelyu/platnye-uslugi",
+      "fetched_at": "2026-11-01T19:06:50+05:00"
+    },
+    {
+      "document_id": "academic-leave",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/actual/fajlovyj-arkhiv/send/269-dokumenty/18935-poryadok-predostavleniya-akademicheskogo-otpuska-2026.html",
+      "fetched_at": "2026-11-01T19:06:52+05:00"
+    },
+    {
+      "document_id": "study-regime",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/doc/document/%D1%81%D0%BC%D0%BA_%D0%BE_%D1%80%D0%B5_3_4_3_23_%D1%80%D0%B5%D0%B6%D0%B8%D0%BC_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9_%D0%BE%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F.pdf",
+      "fetched_at": "2026-11-01T19:06:55+05:00"
+    },
+    {
+      "document_id": "student-transfer",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/actual/fajlovyj-arkhiv/send/269-dokumenty/18896-smk-o-pvd-3-2-6-26-versiya-7-poryadok-perevoda-otchisleniya-i-vosstanovleniya.html",
+      "fetched_at": "2026-11-01T19:06:52+05:00"
+    },
+    {
+      "document_id": "interim-assessment",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/actual/fajlovyj-arkhiv/send/269-dokumenty/18898-smk-pvd-3-2-77-26-versiya-1-poryadok-organizatsii-i-provedeniya-promezhutochnoj-attestatsii-obuchayushchikhsya-v-universitete.html",
+      "fetched_at": "2026-11-01T19:06:53+05:00"
+    },
+    {
+      "document_id": "student-rules",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/servisy-sajta/fajlovyj-arkhiv/send/269-dokumenty/11531-pravila-vnutrennego-rasporyadka-obuchayushchikhsya.html",
+      "fetched_at": "2026-11-01T19:07:01+05:00"
+    },
+    {
+      "document_id": "dormitory-rules",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/servisy-sajta/fajlovyj-arkhiv/send/275-obshchezhitiya/14988-pravila-vnutrennego-rasporyadka-v-obshchezhitiyakh-studencheskogo-gorodka-universiteta.html",
+      "fetched_at": "2026-11-01T19:07:02+05:00"
+    },
+    {
+      "document_id": "library-structure",
+      "status": "downloaded",
+      "resolved_url": "https://lib.magtu.ru/bibliotechno-informatsionnyj-kompleks/organizatsionnaya-struktura-bik-mgtu",
+      "fetched_at": "2026-11-01T19:10:04+05:00"
+    },
+    {
+      "document_id": "library-student",
+      "status": "downloaded",
+      "resolved_url": "https://lib.magtu.ru/chitatelyu/studentu",
+      "fetched_at": "2026-11-01T19:10:04+05:00"
+    },
+    {
+      "document_id": "library-search-guide",
+      "status": "downloaded",
+      "resolved_url": "https://lib.magtu.ru/doc/poisk-v-elektronnoi-biblioteke.pdf",
+      "fetched_at": "2026-11-01T19:10:07+05:00"
+    },
+    {
+      "document_id": "library-journals-guide",
+      "status": "downloaded",
+      "resolved_url": "https://lib.magtu.ru/doc/instruktciia-na-prosmotr-elektronnykh-zhurnalov.pdf",
+      "fetched_at": "2026-11-01T19:10:08+05:00"
+    },
+    {
+      "document_id": "library-direct-links",
+      "status": "downloaded",
+      "resolved_url": "https://lib.magtu.ru/images/news/2021/02/01/instrukziya.pdf",
+      "fetched_at": "2026-11-01T19:10:08+05:00"
+    },
+    {
+      "document_id": "scholarship-support-regulation",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/grants/normativnye-pravovye-akty-reglamentiruyushchie-stipendialnoe-obespechenie/send/126-stipendial-noe-obespechenie/18603-smk-o-smgtu-2-2-5-26-stipendialnoe-obespechenie-i-drugie-formy-materialnoj-podderzhki-obuchayushchikhsya.html",
+      "fetched_at": "2026-11-01T19:10:10+05:00"
+    },
+    {
+      "document_id": "scholarship-increased-regulation",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/grants/normativnye-pravovye-akty-reglamentiruyushchie-stipendialnoe-obespechenie/send/126-stipendial-noe-obespechenie/12356-smk-o-smgtu-02-23-poryadok-naznacheniya-i-vyplaty-povyshennoj-gosudarstvennoj-akademicheskoj-stipendii.html",
+      "fetched_at": "2026-11-01T19:10:11+05:00"
+    },
+    {
+      "document_id": "accessible-education",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/student-ovz.html",
+      "fetched_at": "2026-11-01T19:11:32+05:00"
+    },
+    {
+      "document_id": "student-union",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/campus/profsojuzy/pervichnaya-profsoyuznaya-organizatsiya-studentov-i-aspirantov-mgtu-im-g-i-nosova.html",
+      "fetched_at": "2026-11-01T19:11:32+05:00"
+    },
+    {
+      "document_id": "mother-child-room",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-gumanitarnogo-obrazovaniya/komnata-materi-i-rebenka.html",
+      "fetched_at": "2026-11-01T19:11:35+05:00"
+    },
+    {
+      "document_id": "youth-policy",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/otdel-po-molodezhnoj-politike.html",
+      "fetched_at": "2026-11-01T19:11:38+05:00"
+    },
+    {
+      "document_id": "campus-access-regulation",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/actual/fajlovyj-arkhiv/send/269-dokumenty/18630-smk-pvd-3-2-51-26-propusknoj-i-vnutriob-ektovyj-rezhim-versiya-3.html",
+      "fetched_at": "2026-11-01T20:47:28+05:00",
+      "raw_sha256": "090d79ad06184499a33397167b51930fb9a455a6310a063569d51070c0dcb577"
+    },
+    {
+      "document_id": "career-article-1",
+      "status": "downloaded",
+      "resolved_url": "https://career.magtu.ru/useful/idealnoe-rezyume-kakoe-ono/",
+      "fetched_at": "2026-11-01T20:47:14+05:00",
+      "raw_sha256": "ea471fc79384174d3394131033a4ec25d3ef9011f653f743e3b00ac84e65b455"
+    },
+    {
+      "document_id": "career-article-2",
+      "status": "downloaded",
+      "resolved_url": "https://career.magtu.ru/useful/uvereny-li-vy-v-tom-chto-vashe-rezyume-ne-rabotaet-protiv-vas/",
+      "fetched_at": "2026-11-01T20:47:15+05:00",
+      "raw_sha256": "5020769230cc857656c5d301755343a1f78ca7fbec41100e9f52357f90ec8023"
+    },
+    {
+      "document_id": "career-article-3",
+      "status": "downloaded",
+      "resolved_url": "https://career.magtu.ru/useful/idealnoe-sobesedovanie-zapisyvaj-shagi/",
+      "fetched_at": "2026-11-01T20:47:15+05:00",
+      "raw_sha256": "f912cd2164a2ce44838fe0e0dedc97ba1d7ee5816cb91f5020417da20f5e29ca"
+    },
+    {
+      "document_id": "career-main-unit",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/upravlenie-kommunikatsij-i-marketinga/tsentr-karery-i-vzaimodejstviya-s-partnjorami.html",
+      "fetched_at": "2026-11-01T20:47:29+05:00",
+      "raw_sha256": "91a6eec6e5ee0cb6653b6d6f7d163146b1d1eb99636653f1ba84d8a630cdefc9"
+    },
+    {
+      "document_id": "career-orientation",
+      "status": "downloaded",
+      "resolved_url": "https://career.magtu.ru/studentu/proforientacziya/",
+      "fetched_at": "2026-11-01T20:51:13+05:00",
+      "raw_sha256": "56cf6ee0833c4d88901c13d85a4fbc069e3614103daa488215bf7f2106dfedca"
+    },
+    {
+      "document_id": "career-resume-guide",
+      "status": "downloaded",
+      "resolved_url": "https://career.magtu.ru/studentu/gajd-rezyume/",
+      "fetched_at": "2026-11-01T20:51:13+05:00",
+      "raw_sha256": "be93a43350f6d983ec22f49b52b691e43503774438e90ea3eebaf4ceee0bcadc"
+    },
+    {
+      "document_id": "graduate-office",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/uchebno-metodicheskoe-upravlenie/otdel-po-rabote-vipusknik.html",
+      "fetched_at": "2026-11-01T20:47:02+05:00",
+      "raw_sha256": "a711b741362b446a532f22a38aaaf54736bb6d402584b5cb25ffe9730150d615"
+    },
+    {
+      "document_id": "institute-1",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-metallurgii-mashinostroeniya-i-materialoobrabotki.html",
+      "fetched_at": "2026-11-01T20:47:00+05:00",
+      "raw_sha256": "64e069b2d9cceda6333df4b3cb578f9c1074a1a2d9896c4e25c593286ab3086b"
+    },
+    {
+      "document_id": "institute-13",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-energetiki-i-avtomatizirovannykh-sistem.html",
+      "fetched_at": "2026-11-01T20:47:03+05:00",
+      "raw_sha256": "1c2742392d2bd2ec7d1c4e652e4a985fd6238baae3c0003ee1311b9bce14c402"
+    },
+    {
+      "document_id": "institute-22",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-stroitelstva-arkhitektury-i-iskusstva.html",
+      "fetched_at": "2026-11-01T20:47:04+05:00",
+      "raw_sha256": "8a8f30481bd8f61dae4514265a42b31b95fa30c81f935c54ec0a1a60ebf2369a"
+    },
+    {
+      "document_id": "institute-28",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-ekonomiki-i-upravleniya.html",
+      "fetched_at": "2026-11-01T20:47:05+05:00",
+      "raw_sha256": "db731bdeb20fb311d55d83b7cb2a356f9b9bc1649178b30a801d36cf76ab320c"
+    },
+    {
+      "document_id": "institute-33",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-gumanitarnogo-obrazovaniya.html",
+      "fetched_at": "2026-11-01T20:47:06+05:00",
+      "raw_sha256": "9e84e7bebf026e3d2c16712af7950ed1c206022c8460577229053124579271f8"
+    },
+    {
+      "document_id": "institute-44",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-estestvoznaniya-i-standartizatsii.html",
+      "fetched_at": "2026-11-01T20:47:07+05:00",
+      "raw_sha256": "81f607bd3faf9be2ac5b182d5f7f99adf7d6ef172db4b3a79c77b505612c132b"
+    },
+    {
+      "document_id": "institute-50",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/fakultet-fizicheskoj-kultury-i-sportivnogo-masterstva.html",
+      "fetched_at": "2026-11-01T20:47:09+05:00",
+      "raw_sha256": "0c5fd71d4ed32e46c643bc412a2f5b71bd9d4e560a67fad410c9b7d8feda1e38"
+    },
+    {
+      "document_id": "institute-8",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/institut-gornogo-dela-i-transporta.html",
+      "fetched_at": "2026-11-01T20:47:01+05:00",
+      "raw_sha256": "9c1ac95651355dc06622316c5b0a55b1985cf6bff8623b2c78431d953501b346"
+    },
+    {
+      "document_id": "international-study",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/mezhdunarodnaya-deyatelnost.html",
+      "fetched_at": "2026-11-01T20:46:56+05:00",
+      "raw_sha256": "ace9ebe6362a81d13928ccd1c4e8bc6f6b666570e512e409669df3ff2b82c4aa"
+    },
+    {
+      "document_id": "one-window-regulation",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/polozheniya-o-strukturnykh-podrazdeleniyakh/send/329-polozheniya-o-strukturnykh-podrazdeleniyakh/15175-smk-psp-3-1-20-23-tsentr-edinogo-okna.html",
+      "fetched_at": "2026-11-01T20:47:28+05:00",
+      "raw_sha256": "cf3651b3bae5f20e9f96038caa642cc0c94a3239d88c9cfa63c2fd57c5bc19bd"
+    },
+    {
+      "document_id": "paid-services-unit",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sluzhby-upravleniia/sektor-platnykh-uslug.html",
+      "fetched_at": "2026-11-01T20:46:57+05:00",
+      "raw_sha256": "7ae8e9eda58690f2072ad032d559aa1b1e6e2a901edcbf190932ecce361174e4"
+    },
+    {
+      "document_id": "receipts-generator",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/servisy-sajta/generator-kvitantsij.html",
+      "fetched_at": "2026-11-01T20:46:53+05:00",
+      "raw_sha256": "7bdbc461f07ea9e4c009f4f81e63afb409c651f6f713d58785f59e2ce14f1acb"
+    },
+    {
+      "document_id": "service-unit-88",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/instituty-fakultety-kafedry/tsentr-otkrytogo-i-zaochnogo-obucheniya.html",
+      "fetched_at": "2026-11-01T20:47:18+05:00",
+      "raw_sha256": "8515f8cc527a749e67a8b1d83ba79d61a4d74da35f391e2926976b0ccad295b9"
+    },
+    {
+      "document_id": "social-unit-1",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/otdel-po-mobilizatsionnoj-rabote.html",
+      "fetched_at": "2026-11-01T20:47:10+05:00",
+      "raw_sha256": "906ac187ede4504e1531fd75f126a32e3d47d79e19581145ff3bd1c9c46bf263"
+    },
+    {
+      "document_id": "social-unit-2",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/otdel-po-sotsialnym-voprosam.html",
+      "fetched_at": "2026-11-01T20:47:12+05:00",
+      "raw_sha256": "6b13b24a35194434a4f9984ff5445709f54557dbd07b425e27708d608b27011b"
+    },
+    {
+      "document_id": "social-unit-4",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/uchebno-ozdorovitelnyj-tsentr-yunost.html",
+      "fetched_at": "2026-11-01T20:47:13+05:00",
+      "raw_sha256": "7bdcffd567200d54991af53740af46b335db04fc5ae734fd32f817edc0981812"
+    },
+    {
+      "document_id": "social-unit-5",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/fok.html",
+      "fetched_at": "2026-11-01T20:47:13+05:00",
+      "raw_sha256": "f9b7cefbfd71dcc64d63967f10bb2fbe79355ca80ec1d8734434d34afc464ac6"
+    },
+    {
+      "document_id": "social-unit-6",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sotcialnye-sluzhby/tsentr-studencheskikh-initsiativ-piramida.html",
+      "fetched_at": "2026-11-01T20:47:15+05:00",
+      "raw_sha256": "cd726d1d77f060094a6db4e46ddbe34d66eb8e3e92f0d4d7ce3d5c5fb85ca10b"
+    },
+    {
+      "document_id": "student-council",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/vneuchebnaya-deyatelnost/ob-edinennyj-sovet-obuchayushchikhsya.html",
+      "fetched_at": "2026-11-01T20:46:52+05:00",
+      "raw_sha256": "fed4b2198450049a6534be50bea2c00adcf439bd0fb63373b1a7b7b7adc9b6f9"
+    },
+    {
+      "document_id": "support-service-118",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/69-svedeniya-ob-obrazovatelnoj-organizatsii/struktura-i-organy-upravleniya-obrazovatelnoj-organizatsiej/informatsiya-o-strukturnykh-podrazdeleniyakh/upravleniya/17691-upravlenie-po-razvitiyu-studencheskogo-sporta.html",
+      "fetched_at": "2026-11-01T20:47:22+05:00",
+      "raw_sha256": "3b082b3fec318600992629bb2f5ec35558f490282d173a66ac2b55df273899a1"
+    },
+    {
+      "document_id": "support-service-127",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/upravlenie-mezhdunarodnogo-sotrudnichestva.html",
+      "fetched_at": "2026-11-01T20:47:22+05:00",
+      "raw_sha256": "9b0acc09ad6fe905e3807b98150a96f79dab2dade126af4540ab818e192353dc"
+    },
+    {
+      "document_id": "support-service-171",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sluzhby-upravleniia/bukhgalteriya.html",
+      "fetched_at": "2026-11-01T20:47:22+05:00",
+      "raw_sha256": "0cc99bb5a79061ddb8f35a017ffd1758bde02b6ece7605a2b6c6e8682692b847"
+    },
+    {
+      "document_id": "support-service-177",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/sluzhby-upravleniia/otdel-deloproizvodstva.html",
+      "fetched_at": "2026-11-01T20:47:25+05:00",
+      "raw_sha256": "76f3ba1dbdae4b64a5cd7dfbcd29982f7142dabf0a96cdfb9b8e7c99ca34e73c"
+    },
+    {
+      "document_id": "support-service-222",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/upravleniya/upravlenie-informatsionnykh-tekhnologij-i-asu.html",
+      "fetched_at": "2026-11-01T20:47:25+05:00",
+      "raw_sha256": "6cfa10250bafa0987a5617a4fc073dfe3d9c493a2158260aff183386529c4fe9"
+    },
+    {
+      "document_id": "support-service-228",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/struct/strukturnye-podrazdeleniya/sluzhby/uchebnye-sluzhby/tsentr-tsifrovykh-obrazovatelnykh-tekhnologij-i-inklyuzivnogo-obrazovaniya.html",
+      "fetched_at": "2026-11-01T20:47:25+05:00",
+      "raw_sha256": "67a440aedf64ae8a1910f1f6814a5cf79e022875a625630477e8e682a2de7fd3"
+    },
+    {
+      "document_id": "tax-certificate-request",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/sveden/paid_edu/zayavlenie-na-poluchenie-spravki-fns.html",
+      "fetched_at": "2026-11-01T20:46:53+05:00",
+      "raw_sha256": "b18fe3f3b1ee9423155a3e908aeb25484a9f7ded5e87ce329446cfc5c58aba97"
+    },
+    {
+      "document_id": "university-faq",
+      "status": "downloaded",
+      "resolved_url": "https://www.magtu.ru/faq.html",
+      "fetched_at": "2026-11-01T20:46:50+05:00",
+      "raw_sha256": "88c3ef51afdc686d6134caa903b813f07be74c4e0678725159cc908d736d4de5"
+    }
+  ],
+  "note": "Previous errors kept as history. Decisions about inclusion are in sources.csv.",
+  "new_included_documents": 35
+}

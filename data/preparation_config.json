@@ -1,0 +1,21 @@
+{
+  "pipeline_version": "2.2.0",
+  "allowed_hosts": [
+    "career.magtu.ru",
+    "lib.magtu.ru",
+    "magtu.ru",
+    "newlms.magtu.ru",
+    "timetable.magtu.ru",
+    "www.magtu.ru"
+  ],
+  "max_download_bytes": 12000000,
+  "chunking": {
+    "unit": "whitespace-separated words",
+    "target_words": 180,
+    "max_words": 260,
+    "overlap_words": 30
+  },
+  "selected_method": "fixed",
+  "data_access": "Public pages and public regulations only; no logins or personal student data.",
+  "current_validity": "Unknown until confirmed by responsible department. Date of download is not document date."
+}
