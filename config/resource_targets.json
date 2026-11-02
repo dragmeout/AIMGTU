@@ -1,0 +1,7 @@
+{
+  "preferred_process_memory_gib": 8,
+  "fallback_process_memory_gib": 16,
+  "physical_ram_recommendation_gib": 16,
+  "meaning": "Process-family resource target. Windows Job Object tests cap committed memory and separately measure working sets. This is not a claim that the entire OS plus assistant fits in 8 GiB physical RAM.",
+  "source": "User updated the resource target from 4 GiB to preferably 8 GiB, with 16 GiB fallback."
+}
