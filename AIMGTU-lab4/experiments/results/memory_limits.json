@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "exit_code": 0,
+      "limit_bytes": 8589934592,
+      "limit_gib": 8.0,
+      "peak_job_commit_bytes": 3763539968,
+      "peak_tree_rss_bytes": 2890231808,
+      "peak_commit_gib": 3.505,
+      "peak_rss_gib": 2.692,
+      "processes_outside_job": [],
+      "checked_processes": 5,
+      "elapsed_seconds": 68.10617310000089,
+      "status": "passed"
+    },
+    {
+      "exit_code": 0,
+      "limit_bytes": 17179869184,
+      "limit_gib": 16.0,
+      "peak_job_commit_bytes": 3763212288,
+      "peak_tree_rss_bytes": 2890031104,
+      "peak_commit_gib": 3.505,
+      "peak_rss_gib": 2.692,
+      "processes_outside_job": [],
+      "checked_processes": 5,
+      "elapsed_seconds": 74.96524040000077,
+      "status": "passed"
+    }
+  ],
+  "enforcement_probe": {
+    "exit_code": 23,
+    "limit_bytes": 67108864,
+    "limit_gib": 0.0625,
+    "peak_job_commit_bytes": 9658368,
+    "peak_tree_rss_bytes": 0,
+    "peak_commit_gib": 0.009,
+    "peak_rss_gib": 0.0,
+    "processes_outside_job": [],
+    "checked_processes": 0,
+    "elapsed_seconds": 0.11719979999907082,
+    "allocation_blocked": true
+  },
+  "host_physical_ram_bytes": 34281238528,
+  "mechanism": "Job-wide committed-memory limit. RSS separately sampled every 0.05 s. Does not emulate physical RAM for Windows.",
+  "corpus_sha256": "972aa46972823d3b7d98bc6b9e2d477c97e348628d3365d011e19c4c275a6dec",
+  "worker_sha256": "5df31c2fa425816da1e0afa5f489590a3972bc6c12506701930e4950727ba6c8"
+}

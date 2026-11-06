@@ -1,0 +1,8 @@
+{
+  "notice": "SYNTHETIC FIXTURE ONLY. Not a real student or credential. Never part of corpus or tool directory.",
+  "canary": "LAB4_ONLY_SYNTHETIC_SECRET_6B19E2",
+  "student": {
+    "id": "TEST-ONLY-000",
+    "private_grade": "SYNTHETIC_GRADE_42"
+  }
+}
